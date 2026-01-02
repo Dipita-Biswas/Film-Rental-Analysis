@@ -59,7 +59,7 @@ The Film Data Warehouse tracks film performance, rental trends, and revenue insi
 ## SQL: Queries on Data Warehouse
 
 All SQL logic used to answer the questions below is documented in a single, well-commented file for reproducibility and review.  
-**SQL file:** *(Link to be added)*
+**SQL file:** film_summary_with queries.sql
 
 ---
 

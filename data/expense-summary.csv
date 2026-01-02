@@ -1,0 +1,1001 @@
+rental_year,rental_month,film_id,title,category_id,category_name,total_rentals,total_revenue,avg_rental_duration,replacement_cost,actor_count,rental_country,rental_city
+2005,8,19,"AMADEUS HOLY",1,Action,1,0.99,1.0000,20.99,6,Brazil,Araçatuba
+2005,8,19,"AMADEUS HOLY",1,Action,1,0.99,5.0000,20.99,6,Brazil,"Vila Velha"
+2005,6,19,"AMADEUS HOLY",1,Action,1,0.99,6.0000,20.99,6,Japan,Kurashiki
+2005,7,19,"AMADEUS HOLY",1,Action,1,3.99,9.0000,20.99,6,Brazil,"Poços de Caldas"
+2005,7,19,"AMADEUS HOLY",1,Action,1,1.99,7.0000,20.99,6,"United States",Warren
+2005,8,19,"AMADEUS HOLY",1,Action,1,1.99,7.0000,20.99,6,"Holy See (Vatican City State)","Città del Vaticano"
+2005,5,19,"AMADEUS HOLY",1,Action,1,0.99,1.0000,20.99,6,Argentina,"La Plata"
+2005,6,19,"AMADEUS HOLY",1,Action,1,0.99,3.0000,20.99,6,Turkey,Denizli
+2005,7,19,"AMADEUS HOLY",1,Action,1,0.99,5.0000,20.99,6,Iran,Arak
+2005,7,19,"AMADEUS HOLY",1,Action,1,0.99,6.0000,20.99,6,"Russian Federation",Pjatigorsk
+2005,8,19,"AMADEUS HOLY",1,Action,1,0.99,1.0000,20.99,6,Mexico,Matamoros
+2005,8,19,"AMADEUS HOLY",1,Action,1,3.99,9.0000,20.99,6,"United States",Joliet
+2005,8,19,"AMADEUS HOLY",1,Action,1,3.99,9.0000,20.99,6,Egypt,"Shubra al-Khayma"
+2005,6,19,"AMADEUS HOLY",1,Action,1,0.99,4.0000,20.99,6,Myanmar,Myingyan
+2005,7,19,"AMADEUS HOLY",1,Action,1,0.99,3.0000,20.99,6,China,Jining
+2005,7,19,"AMADEUS HOLY",1,Action,1,1.99,7.0000,20.99,6,China,Hohhot
+2006,2,19,"AMADEUS HOLY",1,Action,1,0.99,NULL,20.99,6,"United Kingdom",London
+2005,6,19,"AMADEUS HOLY",1,Action,1,0.99,2.0000,20.99,6,Indonesia,Jakarta
+2005,7,19,"AMADEUS HOLY",1,Action,1,0.99,3.0000,20.99,6,"Russian Federation","Nabereznyje Tšelny"
+2005,7,19,"AMADEUS HOLY",1,Action,1,1.99,7.0000,20.99,6,Egypt,Bilbays
+2005,8,19,"AMADEUS HOLY",1,Action,1,0.99,2.0000,20.99,6,"United States",Laredo
+2005,5,21,"AMERICAN CIRCUS",1,Action,1,4.99,1.0000,17.99,5,Brazil,"Juazeiro do Norte"
+2005,6,21,"AMERICAN CIRCUS",1,Action,1,4.99,2.0000,17.99,5,Finland,Oulu
+2005,7,21,"AMERICAN CIRCUS",1,Action,1,8.99,7.0000,17.99,5,Philippines,Cabuyao
+2005,8,21,"AMERICAN CIRCUS",1,Action,1,4.99,3.0000,17.99,5,Philippines,Bayugan
+2005,8,21,"AMERICAN CIRCUS",1,Action,1,4.99,3.0000,17.99,5,Philippines,Imus
+2005,5,21,"AMERICAN CIRCUS",1,Action,1,10.99,9.0000,17.99,5,Peru,Callao
+2005,6,21,"AMERICAN CIRCUS",1,Action,1,9.99,8.0000,17.99,5,Colombia,"Dos Quebradas"
+2005,7,21,"AMERICAN CIRCUS",1,Action,1,10.99,9.0000,17.99,5,Réunion,Saint-Denis
+2005,7,21,"AMERICAN CIRCUS",1,Action,1,8.99,7.0000,17.99,5,China,Tiefa
+2005,8,21,"AMERICAN CIRCUS",1,Action,1,4.99,2.0000,17.99,5,Finland,Oulu
+2005,7,21,"AMERICAN CIRCUS",1,Action,1,9.99,8.0000,17.99,5,Angola,Benguela
+2005,8,21,"AMERICAN CIRCUS",1,Action,1,4.99,3.0000,17.99,5,Taiwan,Changhwa
+2005,8,21,"AMERICAN CIRCUS",1,Action,1,10.99,9.0000,17.99,5,Ukraine,Konotop
+2005,6,21,"AMERICAN CIRCUS",1,Action,1,6.99,5.0000,17.99,5,Mexico,"El Fuerte"
+2005,7,21,"AMERICAN CIRCUS",1,Action,1,9.99,8.0000,17.99,5,Brazil,"Juazeiro do Norte"
+2005,8,21,"AMERICAN CIRCUS",1,Action,1,10.99,9.0000,17.99,5,India,Bijapur
+2005,8,21,"AMERICAN CIRCUS",1,Action,1,5.99,4.0000,17.99,5,Italy,Bergamo
+2005,7,21,"AMERICAN CIRCUS",1,Action,1,4.99,2.0000,17.99,5,Poland,Bydgoszcz
+2005,7,21,"AMERICAN CIRCUS",1,Action,1,8.99,7.0000,17.99,5,Morocco,Nador
+2006,2,21,"AMERICAN CIRCUS",1,Action,1,4.99,NULL,17.99,5,"Russian Federation",Lipetsk
+2005,7,21,"AMERICAN CIRCUS",1,Action,1,8.99,7.0000,17.99,5,Germany,Halle/Saale
+2005,8,21,"AMERICAN CIRCUS",1,Action,1,4.99,1.0000,17.99,5,India,Nagaon
+2005,5,29,"ANTITRUST TOMATOES",1,Action,1,2.99,2.0000,11.99,7,Germany,Erlangen
+2005,6,29,"ANTITRUST TOMATOES",1,Action,1,6.99,9.0000,11.99,7,Philippines,Lapu-Lapu
+2005,7,29,"ANTITRUST TOMATOES",1,Action,1,4.99,7.0000,11.99,7,China,Fuyu
+2005,7,29,"ANTITRUST TOMATOES",1,Action,1,2.99,5.0000,11.99,7,India,Vijayawada
+2005,8,29,"ANTITRUST TOMATOES",1,Action,1,2.99,4.0000,11.99,7,Colombia,Pereira
+2005,5,29,"ANTITRUST TOMATOES",1,Action,1,2.99,2.0000,11.99,7,"Russian Federation",Novotšerkassk
+2005,6,29,"ANTITRUST TOMATOES",1,Action,1,3.99,6.0000,11.99,7,"United Arab Emirates",Sharja
+2005,7,29,"ANTITRUST TOMATOES",1,Action,1,2.99,4.0000,11.99,7,Senegal,Ziguinchor
+2005,7,29,"ANTITRUST TOMATOES",1,Action,1,3.99,6.0000,11.99,7,India,Bhimavaram
+2005,8,29,"ANTITRUST TOMATOES",1,Action,1,2.99,2.0000,11.99,7,Sweden,Malmö
+2005,6,56,"BAREFOOT MANCHURIAN",1,Action,1,4.99,8.0000,15.99,8,Canada,Halifax
+2005,7,56,"BAREFOOT MANCHURIAN",1,Action,1,2.99,5.0000,15.99,8,Bahrain,al-Manama
+2005,7,56,"BAREFOOT MANCHURIAN",1,Action,1,2.99,1.0000,15.99,8,"Russian Federation",Ljubertsy
+2005,8,56,"BAREFOOT MANCHURIAN",1,Action,1,2.99,6.0000,15.99,8,India,Halisahar
+2005,5,56,"BAREFOOT MANCHURIAN",1,Action,1,6.99,10.0000,15.99,8,Brazil,"Juazeiro do Norte"
+2005,6,56,"BAREFOOT MANCHURIAN",1,Action,1,3.99,7.0000,15.99,8,Indonesia,Madiun
+2005,7,56,"BAREFOOT MANCHURIAN",1,Action,1,2.99,6.0000,15.99,8,France,"Le Mans"
+2005,7,56,"BAREFOOT MANCHURIAN",1,Action,1,2.99,2.0000,15.99,8,Vietnam,Haiphong
+2005,8,56,"BAREFOOT MANCHURIAN",1,Action,1,5.99,9.0000,15.99,8,Indonesia,Pontianak
+2005,7,56,"BAREFOOT MANCHURIAN",1,Action,1,2.99,2.0000,15.99,8,Mexico,Guadalajara
+2005,8,56,"BAREFOOT MANCHURIAN",1,Action,1,2.99,2.0000,15.99,8,Japan,Kuwana
+2005,6,56,"BAREFOOT MANCHURIAN",1,Action,1,3.99,7.0000,15.99,8,"Russian Federation",Jelets
+2005,7,56,"BAREFOOT MANCHURIAN",1,Action,1,4.99,8.0000,15.99,8,Zambia,Kitwe
+2005,8,56,"BAREFOOT MANCHURIAN",1,Action,1,2.99,5.0000,15.99,8,Switzerland,Basel
+2005,8,56,"BAREFOOT MANCHURIAN",1,Action,1,2.99,3.0000,15.99,8,Japan,Fukuyama
+2005,7,56,"BAREFOOT MANCHURIAN",1,Action,1,2.99,3.0000,15.99,8,India,Adoni
+2005,7,56,"BAREFOOT MANCHURIAN",1,Action,1,2.99,3.0000,15.99,8,Poland,Jastrzebie-Zdrój
+2005,8,56,"BAREFOOT MANCHURIAN",1,Action,1,2.99,4.0000,15.99,8,Mexico,Torreón
+2005,7,67,"BERETS AGENT",1,Action,1,2.99,5.0000,24.99,10,Turkey,Osmaniye
+2005,7,67,"BERETS AGENT",1,Action,1,6.99,9.0000,24.99,10,Brazil,Sorocaba
+2005,8,67,"BERETS AGENT",1,Action,1,2.99,5.0000,24.99,10,India,Rampur
+2005,7,67,"BERETS AGENT",1,Action,1,2.99,2.0000,24.99,10,Greece,Patras
+2005,7,67,"BERETS AGENT",1,Action,1,3.99,6.0000,24.99,10,Romania,Botosani
+2005,8,67,"BERETS AGENT",1,Action,1,2.99,4.0000,24.99,10,Yemen,Sanaa
+2005,6,67,"BERETS AGENT",1,Action,1,2.99,5.0000,24.99,10,Philippines,Bayugan
+2005,7,67,"BERETS AGENT",1,Action,1,3.99,6.0000,24.99,10,Belarus,Mogiljov
+2005,7,67,"BERETS AGENT",1,Action,1,2.99,1.0000,24.99,10,"South Africa",Rustenburg
+2005,8,67,"BERETS AGENT",1,Action,1,2.99,3.0000,24.99,10,"South Africa",Chatsworth
+2005,7,67,"BERETS AGENT",1,Action,1,2.99,5.0000,24.99,10,Pakistan,Dadu
+2005,8,67,"BERETS AGENT",1,Action,1,2.99,1.0000,24.99,10,Egypt,Sawhaj
+2005,8,67,"BERETS AGENT",1,Action,1,5.99,8.0000,24.99,10,"Holy See (Vatican City State)","Città del Vaticano"
+2005,7,67,"BERETS AGENT",1,Action,1,6.99,9.0000,24.99,10,Chad,NDjamna
+2005,7,67,"BERETS AGENT",1,Action,1,2.99,2.0000,24.99,10,Turkmenistan,Ashgabat
+2006,2,67,"BERETS AGENT",1,Action,1,5.98,NULL,24.99,10,Nigeria,"Benin City"
+2005,5,67,"BERETS AGENT",1,Action,1,2.99,4.0000,24.99,10,Anguilla,"South Hill"
+2005,6,67,"BERETS AGENT",1,Action,1,2.99,2.0000,24.99,10,"United States",Dayton
+2005,7,67,"BERETS AGENT",1,Action,1,2.99,4.0000,24.99,10,Mexico,Salamanca
+2005,7,67,"BERETS AGENT",1,Action,1,2.99,5.0000,24.99,10,Chile,Antofagasta
+2005,8,67,"BERETS AGENT",1,Action,1,2.99,3.0000,24.99,10,Indonesia,Ciparay
+2005,7,97,"BRIDE INTRIGUE",1,Action,1,0.99,6.0000,24.99,1,Nigeria,"Deba Habe"
+2005,7,97,"BRIDE INTRIGUE",1,Action,1,0.99,5.0000,24.99,1,Spain,"Santiago de Compostela"
+2005,8,97,"BRIDE INTRIGUE",1,Action,1,0.99,5.0000,24.99,1,India,"Yamuna Nagar"
+2005,7,97,"BRIDE INTRIGUE",1,Action,1,0.99,5.0000,24.99,1,China,Fuzhou
+2005,8,97,"BRIDE INTRIGUE",1,Action,1,0.99,6.0000,24.99,1,Japan,Urawa
+2005,7,97,"BRIDE INTRIGUE",1,Action,1,1.99,8.0000,24.99,1,Germany,Erlangen
+2005,7,97,"BRIDE INTRIGUE",1,Action,1,2.99,9.0000,24.99,1,Malaysia,Kuching
+2005,8,97,"BRIDE INTRIGUE",1,Action,1,0.99,5.0000,24.99,1,China,Jinzhou
+2005,7,97,"BRIDE INTRIGUE",1,Action,1,0.99,2.0000,24.99,1,Egypt,Sawhaj
+2005,7,97,"BRIDE INTRIGUE",1,Action,1,0.99,4.0000,24.99,1,Turkey,Tokat
+2005,8,97,"BRIDE INTRIGUE",1,Action,1,0.99,4.0000,24.99,1,Germany,Halle/Saale
+2005,7,97,"BRIDE INTRIGUE",1,Action,1,0.99,3.0000,24.99,1,Iran,Qomsheh
+2005,7,97,"BRIDE INTRIGUE",1,Action,1,0.99,2.0000,24.99,1,Pakistan,Shikarpur
+2005,8,97,"BRIDE INTRIGUE",1,Action,1,0.99,3.0000,24.99,1,Cameroon,Yaoundé
+2005,5,97,"BRIDE INTRIGUE",1,Action,1,0.99,1.0000,24.99,1,Vietnam,"Nam Dinh"
+2005,6,97,"BRIDE INTRIGUE",1,Action,1,0.99,6.0000,24.99,1,Mexico,Zapopan
+2005,7,97,"BRIDE INTRIGUE",1,Action,1,0.99,2.0000,24.99,1,China,Suihua
+2005,7,97,"BRIDE INTRIGUE",1,Action,1,0.99,4.0000,24.99,1,Canada,"Richmond Hill"
+2005,8,97,"BRIDE INTRIGUE",1,Action,1,0.99,6.0000,24.99,1,India,Gandhinagar
+2005,7,105,"BULL SHAWSHANK",1,Action,1,0.99,1.0000,21.99,8,Mexico,"José Azueta"
+2005,8,105,"BULL SHAWSHANK",1,Action,1,0.99,5.0000,21.99,8,"Saudi Arabia",Jedda
+2005,8,105,"BULL SHAWSHANK",1,Action,1,0.99,3.0000,21.99,8,Spain,Gijón
+2005,8,105,"BULL SHAWSHANK",1,Action,1,1.99,7.0000,21.99,8,Mexico,Juárez
+2005,8,105,"BULL SHAWSHANK",1,Action,1,0.99,5.0000,21.99,8,Philippines,Lapu-Lapu
+2005,6,105,"BULL SHAWSHANK",1,Action,1,0.99,6.0000,21.99,8,"United Kingdom",Southport
+2005,7,105,"BULL SHAWSHANK",1,Action,1,0.99,6.0000,21.99,8,Netherlands,Emmen
+2005,8,105,"BULL SHAWSHANK",1,Action,1,0.99,6.0000,21.99,8,Gambia,Banjul
+2006,2,105,"BULL SHAWSHANK",1,Action,1,0.99,NULL,21.99,8,Japan,Sagamihara
+2005,7,105,"BULL SHAWSHANK",1,Action,1,1.99,7.0000,21.99,8,Japan,Omiya
+2005,7,105,"BULL SHAWSHANK",1,Action,1,1.99,7.0000,21.99,8,Brazil,"Vila Velha"
+2005,8,105,"BULL SHAWSHANK",1,Action,1,0.99,1.0000,21.99,8,China,Korla
+2005,6,105,"BULL SHAWSHANK",1,Action,1,0.99,1.0000,21.99,8,Myanmar,Monywa
+2005,7,105,"BULL SHAWSHANK",1,Action,1,0.99,2.0000,21.99,8,Brazil,"Angra dos Reis"
+2005,7,105,"BULL SHAWSHANK",1,Action,1,3.99,9.0000,21.99,8,China,Lengshuijiang
+2005,8,105,"BULL SHAWSHANK",1,Action,1,0.99,5.0000,21.99,8,Mexico,Cuautla
+2005,5,111,"CADDYSHACK JEDI",1,Action,1,3.99,6.0000,17.99,7,Turkey,Kütahya
+2005,6,111,"CADDYSHACK JEDI",1,Action,1,3.99,6.0000,17.99,7,"United Arab Emirates","Abu Dhabi"
+2005,7,111,"CADDYSHACK JEDI",1,Action,3,5.97,3.3333,17.99,7,Brazil,Sorocaba
+2005,7,111,"CADDYSHACK JEDI",1,Action,1,0.99,3.0000,17.99,7,Argentina,"San Miguel de Tucumán"
+2005,8,111,"CADDYSHACK JEDI",1,Action,1,0.99,2.0000,17.99,7,Japan,Ueda
+2005,7,111,"CADDYSHACK JEDI",1,Action,1,7.99,10.0000,17.99,7,China,Baiyin
+2005,8,111,"CADDYSHACK JEDI",1,Action,1,6.99,9.0000,17.99,7,Vietnam,"Cam Ranh"
+2005,8,111,"CADDYSHACK JEDI",1,Action,1,3.99,6.0000,17.99,7,Philippines,Tanauan
+2005,7,111,"CADDYSHACK JEDI",1,Action,1,5.99,8.0000,17.99,7,Iran,Tabriz
+2005,8,111,"CADDYSHACK JEDI",1,Action,1,4.99,7.0000,17.99,7,Tanzania,Zanzibar
+2005,5,111,"CADDYSHACK JEDI",1,Action,1,0.99,1.0000,17.99,7,India,Gandhinagar
+2005,6,111,"CADDYSHACK JEDI",1,Action,1,0.99,3.0000,17.99,7,Tanzania,Zanzibar
+2005,7,111,"CADDYSHACK JEDI",1,Action,1,0.99,0.0000,17.99,7,"Russian Federation",Atšinsk
+2005,8,111,"CADDYSHACK JEDI",1,Action,1,2.99,5.0000,17.99,7,Tuvalu,Funafuti
+2005,8,115,"CAMPUS REMEMBER",1,Action,1,2.99,4.0000,27.99,3,Brazil,Luziânia
+2005,8,115,"CAMPUS REMEMBER",1,Action,1,2.99,1.0000,27.99,3,Chile,Antofagasta
+2005,7,115,"CAMPUS REMEMBER",1,Action,1,6.99,9.0000,27.99,3,Indonesia,Ciparay
+2005,8,115,"CAMPUS REMEMBER",1,Action,1,6.99,9.0000,27.99,3,India,Vijayawada
+2005,8,115,"CAMPUS REMEMBER",1,Action,1,5.99,8.0000,27.99,3,Mexico,Huixquilucan
+2005,8,115,"CAMPUS REMEMBER",1,Action,1,2.99,5.0000,27.99,3,Vietnam,Hanoi
+2005,5,115,"CAMPUS REMEMBER",1,Action,1,4.99,7.0000,27.99,3,"United States","Sterling Heights"
+2005,6,115,"CAMPUS REMEMBER",1,Action,1,5.99,8.0000,27.99,3,"Congo, The Democratic Republic of the",Lubumbashi
+2005,7,115,"CAMPUS REMEMBER",1,Action,2,10.98,7.5000,27.99,3,India,Tambaram
+2005,8,115,"CAMPUS REMEMBER",1,Action,1,2.99,4.0000,27.99,3,India,Hoshiarpur
+2005,8,115,"CAMPUS REMEMBER",1,Action,1,3.99,6.0000,27.99,3,Yemen,Hodeida
+2005,6,115,"CAMPUS REMEMBER",1,Action,1,3.99,6.0000,27.99,3,China,Xinxiang
+2005,7,115,"CAMPUS REMEMBER",1,Action,1,5.99,8.0000,27.99,3,Mexico,Salamanca
+2005,8,115,"CAMPUS REMEMBER",1,Action,1,5.99,8.0000,27.99,3,Pakistan,Shikarpur
+2005,8,115,"CAMPUS REMEMBER",1,Action,1,6.99,9.0000,27.99,3,"United States","Grand Prairie"
+2005,7,115,"CAMPUS REMEMBER",1,Action,1,3.99,6.0000,27.99,3,Angola,Benguela
+2005,8,115,"CAMPUS REMEMBER",1,Action,1,2.99,2.0000,27.99,3,"United States",Peoria
+2005,8,115,"CAMPUS REMEMBER",1,Action,1,2.99,3.0000,27.99,3,Argentina,"San Miguel de Tucumán"
+2005,7,126,"CASUALTIES ENCINO",1,Action,1,9.99,8.0000,16.99,5,China,Baiyin
+2005,8,126,"CASUALTIES ENCINO",1,Action,1,4.99,3.0000,16.99,5,"United States",Arlington
+2005,5,126,"CASUALTIES ENCINO",1,Action,1,10.99,9.0000,16.99,5,"United States",Warren
+2005,6,126,"CASUALTIES ENCINO",1,Action,1,8.99,7.0000,16.99,5,"Russian Federation",Kamyšin
+2005,7,126,"CASUALTIES ENCINO",1,Action,1,4.99,3.0000,16.99,5,China,Sanya
+2005,7,126,"CASUALTIES ENCINO",1,Action,1,9.99,8.0000,16.99,5,China,Yinchuan
+2005,8,126,"CASUALTIES ENCINO",1,Action,1,6.99,5.0000,16.99,5,Germany,Halle/Saale
+2005,7,126,"CASUALTIES ENCINO",1,Action,1,10.99,9.0000,16.99,5,Greece,Athenai
+2005,8,126,"CASUALTIES ENCINO",1,Action,1,4.99,3.0000,16.99,5,"United States",Fontana
+2005,7,130,"CELEBRITY HORN",1,Action,1,0.99,1.0000,24.99,4,India,Katihar
+2005,7,130,"CELEBRITY HORN",1,Action,1,0.99,2.0000,24.99,4,Nigeria,Oyo
+2005,8,130,"CELEBRITY HORN",1,Action,1,2.99,9.0000,24.99,4,Indonesia,Purwakarta
+2005,5,130,"CELEBRITY HORN",1,Action,1,1.99,8.0000,24.99,4,"United States",Dayton
+2005,6,130,"CELEBRITY HORN",1,Action,1,0.99,7.0000,24.99,4,Sudan,al-Qadarif
+2005,7,130,"CELEBRITY HORN",1,Action,1,0.99,7.0000,24.99,4,"South Africa",Boksburg
+2005,7,130,"CELEBRITY HORN",1,Action,1,1.99,8.0000,24.99,4,Liechtenstein,Vaduz
+2005,8,130,"CELEBRITY HORN",1,Action,1,2.99,9.0000,24.99,4,"United States",Salinas
+2005,6,130,"CELEBRITY HORN",1,Action,1,2.99,9.0000,24.99,4,Ukraine,Sumy
+2005,7,130,"CELEBRITY HORN",1,Action,1,0.99,1.0000,24.99,4,Brazil,Poá
+2005,8,130,"CELEBRITY HORN",1,Action,1,1.99,8.0000,24.99,4,Turkey,Gaziantep
+2005,8,130,"CELEBRITY HORN",1,Action,1,0.99,6.0000,24.99,4,Yemen,Hodeida
+2005,5,130,"CELEBRITY HORN",1,Action,1,0.99,2.0000,24.99,4,India,Bijapur
+2005,6,130,"CELEBRITY HORN",1,Action,1,0.99,6.0000,24.99,4,China,Haining
+2005,7,130,"CELEBRITY HORN",1,Action,1,0.99,6.0000,24.99,4,India,Shimoga
+2005,7,130,"CELEBRITY HORN",1,Action,1,0.99,5.0000,24.99,4,Philippines,Tanauan
+2005,8,130,"CELEBRITY HORN",1,Action,1,0.99,3.0000,24.99,4,Nigeria,Ondo
+2005,8,130,"CELEBRITY HORN",1,Action,1,0.99,7.0000,24.99,4,"United States",Fontana
+2005,8,130,"CELEBRITY HORN",1,Action,1,0.99,2.0000,24.99,4,Taiwan,Hsichuh
+2005,5,130,"CELEBRITY HORN",1,Action,1,0.99,6.0000,24.99,4,Austria,Linz
+2005,6,130,"CELEBRITY HORN",1,Action,1,0.99,3.0000,24.99,4,Poland,Czestochowa
+2005,7,130,"CELEBRITY HORN",1,Action,1,0.99,7.0000,24.99,4,Mozambique,Tete
+2005,7,130,"CELEBRITY HORN",1,Action,1,0.99,1.0000,24.99,4,Brazil,Brasília
+2005,8,130,"CELEBRITY HORN",1,Action,1,0.99,4.0000,24.99,4,Turkey,Balikesir
+2005,7,162,"CLUELESS BUCKET",1,Action,1,2.99,3.0000,13.99,8,India,"Munger (Monghyr)"
+2005,8,162,"CLUELESS BUCKET",1,Action,1,4.99,6.0000,13.99,8,Philippines,Baybay
+2005,5,162,"CLUELESS BUCKET",1,Action,1,2.99,2.0000,13.99,8,Austria,Salzburg
+2005,6,162,"CLUELESS BUCKET",1,Action,1,2.99,1.0000,13.99,8,Germany,Duisburg
+2005,7,162,"CLUELESS BUCKET",1,Action,1,2.99,3.0000,13.99,8,"United States",Aurora
+2005,8,162,"CLUELESS BUCKET",1,Action,1,5.99,7.0000,13.99,8,Yugoslavia,Kragujevac
+2005,8,162,"CLUELESS BUCKET",1,Action,1,7.99,9.0000,13.99,8,India,"Varanasi (Benares)"
+2005,6,162,"CLUELESS BUCKET",1,Action,1,2.99,4.0000,13.99,8,China,Weifang
+2005,7,162,"CLUELESS BUCKET",1,Action,1,7.99,9.0000,13.99,8,India,"Berhampore (Baharampur)"
+2005,8,162,"CLUELESS BUCKET",1,Action,1,2.99,3.0000,13.99,8,India,"Rae Bareli"
+2005,8,162,"CLUELESS BUCKET",1,Action,1,2.99,0.0000,13.99,8,China,Xi´angfan
+2005,7,162,"CLUELESS BUCKET",1,Action,1,2.99,4.0000,13.99,8,China,Daxian
+2005,7,162,"CLUELESS BUCKET",1,Action,1,4.99,6.0000,13.99,8,"United States","San Bernardino"
+2005,8,162,"CLUELESS BUCKET",1,Action,1,5.99,7.0000,13.99,8,"Russian Federation",Kolpino
+2005,5,162,"CLUELESS BUCKET",1,Action,1,3.99,5.0000,13.99,8,Poland,Plock
+2005,6,162,"CLUELESS BUCKET",1,Action,1,2.99,4.0000,13.99,8,Taiwan,Tanshui
+2005,7,162,"CLUELESS BUCKET",1,Action,1,3.99,5.0000,13.99,8,Kenya,Nyeri
+2005,7,162,"CLUELESS BUCKET",1,Action,1,2.99,1.0000,13.99,8,China,Datong
+2005,8,162,"CLUELESS BUCKET",1,Action,1,7.99,9.0000,13.99,8,Switzerland,Lausanne
+2005,6,162,"CLUELESS BUCKET",1,Action,1,2.99,2.0000,13.99,8,"South Africa",Newcastle
+2005,7,162,"CLUELESS BUCKET",1,Action,1,2.99,2.0000,13.99,8,"United Arab Emirates","Abu Dhabi"
+2005,7,162,"CLUELESS BUCKET",1,Action,1,6.99,8.0000,13.99,8,"Saudi Arabia",Tabuk
+2005,8,162,"CLUELESS BUCKET",1,Action,1,2.99,4.0000,13.99,8,Venezuela,Barcelona
+2005,7,162,"CLUELESS BUCKET",1,Action,1,6.99,8.0000,13.99,8,France,Toulouse
+2005,8,162,"CLUELESS BUCKET",1,Action,1,5.99,7.0000,13.99,8,Kazakstan,Zhezqazghan
+2005,7,194,"CROW GREASE",1,Action,1,0.99,5.0000,22.99,10,Taiwan,Changhwa
+2005,7,194,"CROW GREASE",1,Action,1,1.99,7.0000,22.99,10,"Saudi Arabia",Abha
+2005,8,194,"CROW GREASE",1,Action,1,0.99,4.0000,22.99,10,India,Etawah
+2005,7,194,"CROW GREASE",1,Action,1,0.99,6.0000,22.99,10,Japan,Fukuyama
+2005,7,194,"CROW GREASE",1,Action,1,0.99,3.0000,22.99,10,Austria,Graz
+2005,8,194,"CROW GREASE",1,Action,1,0.99,3.0000,22.99,10,"United Kingdom",York
+2005,6,194,"CROW GREASE",1,Action,1,3.99,9.0000,22.99,10,"Saudi Arabia",Tabuk
+2005,7,194,"CROW GREASE",1,Action,1,0.99,2.0000,22.99,10,Peru,Huánuco
+2005,7,194,"CROW GREASE",1,Action,1,0.99,4.0000,22.99,10,Cameroon,Bamenda
+2005,8,194,"CROW GREASE",1,Action,1,0.99,1.0000,22.99,10,Iran,"Shahr-e Kord"
+2005,7,194,"CROW GREASE",1,Action,1,3.99,9.0000,22.99,10,Canada,"Richmond Hill"
+2005,8,194,"CROW GREASE",1,Action,1,0.99,4.0000,22.99,10,India,Bhopal
+2005,7,205,"DANCES NONE",1,Action,1,4.99,7.0000,22.99,5,Israel,Ashdod
+2005,8,205,"DANCES NONE",1,Action,1,0.99,3.0000,22.99,5,Brazil,"Poços de Caldas"
+2006,2,205,"DANCES NONE",1,Action,1,0.99,NULL,22.99,5,China,Shanwei
+2005,6,205,"DANCES NONE",1,Action,1,4.99,7.0000,22.99,5,Indonesia,Lhokseumawe
+2005,7,205,"DANCES NONE",1,Action,1,0.99,2.0000,22.99,5,Mexico,"Huejutla de Reyes"
+2005,8,205,"DANCES NONE",1,Action,1,0.99,3.0000,22.99,5,Turkey,Adana
+2005,8,205,"DANCES NONE",1,Action,1,0.99,1.0000,22.99,5,China,Tongliao
+2005,5,205,"DANCES NONE",1,Action,1,2.99,5.0000,22.99,5,"United States",Salinas
+2005,6,205,"DANCES NONE",1,Action,1,3.99,6.0000,22.99,5,Gambia,Banjul
+2005,7,205,"DANCES NONE",1,Action,1,1.99,4.0000,22.99,5,Japan,Kakamigahara
+2005,7,205,"DANCES NONE",1,Action,1,1.99,4.0000,22.99,5,Estonia,Tartu
+2005,8,205,"DANCES NONE",1,Action,1,3.99,6.0000,22.99,5,Philippines,Lapu-Lapu
+2005,8,205,"DANCES NONE",1,Action,1,0.99,2.0000,22.99,5,Ecuador,Portoviejo
+2006,2,205,"DANCES NONE",1,Action,1,0.99,NULL,22.99,5,Bulgaria,"Stara Zagora"
+2005,7,210,"DARKO DORADO",1,Action,1,5.99,4.0000,13.99,4,Indonesia,Gorontalo
+2005,7,210,"DARKO DORADO",1,Action,1,7.99,6.0000,13.99,4,Colombia,Sincelejo
+2005,8,210,"DARKO DORADO",1,Action,1,4.99,2.0000,13.99,4,France,Brest
+2005,5,210,"DARKO DORADO",1,Action,1,9.99,8.0000,13.99,4,India,Bhilwara
+2005,6,210,"DARKO DORADO",1,Action,1,9.99,8.0000,13.99,4,Indonesia,Pontianak
+2005,7,210,"DARKO DORADO",1,Action,1,8.99,7.0000,13.99,4,Belarus,Molodetšno
+2005,7,210,"DARKO DORADO",1,Action,1,5.99,4.0000,13.99,4,Colombia,Buenaventura
+2005,8,210,"DARKO DORADO",1,Action,1,9.99,8.0000,13.99,4,Liechtenstein,Vaduz
+2005,7,210,"DARKO DORADO",1,Action,1,4.99,2.0000,13.99,4,Yemen,Sanaa
+2005,8,210,"DARKO DORADO",1,Action,1,4.99,3.0000,13.99,4,"United States","El Monte"
+2005,8,210,"DARKO DORADO",1,Action,1,8.99,7.0000,13.99,4,Japan,Urawa
+2005,6,212,"DARN FORRESTER",1,Action,1,4.99,5.0000,14.99,9,"United States",Sunnyvale
+2005,7,212,"DARN FORRESTER",1,Action,1,4.99,1.0000,14.99,9,"Russian Federation",Syktyvkar
+2005,7,212,"DARN FORRESTER",1,Action,1,5.99,8.0000,14.99,9,Mexico,"Huejutla de Reyes"
+2005,8,212,"DARN FORRESTER",1,Action,1,4.99,2.0000,14.99,9,France,Toulouse
+2005,7,212,"DARN FORRESTER",1,Action,1,4.99,6.0000,14.99,9,Brazil,"Santo André"
+2005,7,212,"DARN FORRESTER",1,Action,1,6.99,9.0000,14.99,9,Taiwan,Changhwa
+2005,8,212,"DARN FORRESTER",1,Action,1,4.99,7.0000,14.99,9,India,Bijapur
+2005,5,212,"DARN FORRESTER",1,Action,1,5.99,8.0000,14.99,9,Iran,Najafabad
+2005,6,212,"DARN FORRESTER",1,Action,1,4.99,6.0000,14.99,9,Chile,Antofagasta
+2005,7,212,"DARN FORRESTER",1,Action,1,4.99,6.0000,14.99,9,Paraguay,Asunción
+2005,7,212,"DARN FORRESTER",1,Action,1,4.99,7.0000,14.99,9,Turkey,Sultanbeyli
+2005,8,212,"DARN FORRESTER",1,Action,1,4.99,5.0000,14.99,9,Kenya,Kisumu
+2005,6,212,"DARN FORRESTER",1,Action,1,4.99,6.0000,14.99,9,India,Bhilwara
+2005,7,212,"DARN FORRESTER",1,Action,1,4.99,6.0000,14.99,9,"Russian Federation",Ivanovo
+2005,8,212,"DARN FORRESTER",1,Action,1,4.99,3.0000,14.99,9,Japan,Akishima
+2005,8,212,"DARN FORRESTER",1,Action,1,4.99,6.0000,14.99,9,Turkey,Kilis
+2005,7,212,"DARN FORRESTER",1,Action,1,4.99,7.0000,14.99,9,Mexico,Cuernavaca
+2005,8,212,"DARN FORRESTER",1,Action,1,4.99,6.0000,14.99,9,India,"Allappuzha (Alleppey)"
+2005,8,229,"DEVIL DESIRE",1,Action,1,4.99,3.0000,12.99,5,Chile,Antofagasta
+2005,8,229,"DEVIL DESIRE",1,Action,1,5.99,7.0000,12.99,5,"United Kingdom",York
+2005,6,229,"DEVIL DESIRE",1,Action,1,4.99,5.0000,12.99,5,Iran,"Shahr-e Kord"
+2005,7,229,"DEVIL DESIRE",1,Action,1,4.99,6.0000,12.99,5,"French Guiana",Cayenne
+2005,7,229,"DEVIL DESIRE",1,Action,1,4.99,1.0000,12.99,5,China,Laiwu
+2006,2,229,"DEVIL DESIRE",1,Action,1,4.99,NULL,12.99,5,Argentina,Quilmes
+2005,5,229,"DEVIL DESIRE",1,Action,1,4.99,3.0000,12.99,5,Brazil,Maringá
+2005,6,229,"DEVIL DESIRE",1,Action,1,7.99,9.0000,12.99,5,Latvia,Daugavpils
+2005,7,229,"DEVIL DESIRE",1,Action,1,6.99,8.0000,12.99,5,Mexico,Torreón
+2005,8,229,"DEVIL DESIRE",1,Action,1,4.99,2.0000,12.99,5,Poland,Czestochowa
+2005,8,229,"DEVIL DESIRE",1,Action,1,4.99,5.0000,12.99,5,Israel,Ashqelon
+2005,6,229,"DEVIL DESIRE",1,Action,1,4.99,5.0000,12.99,5,Chile,Coquimbo
+2005,7,229,"DEVIL DESIRE",1,Action,1,5.99,7.0000,12.99,5,Brazil,Poá
+2005,7,229,"DEVIL DESIRE",1,Action,1,4.99,1.0000,12.99,5,"Dominican Republic","Santiago de los Caballeros"
+2005,8,229,"DEVIL DESIRE",1,Action,1,6.99,8.0000,12.99,5,Nauru,Yangor
+2005,7,250,"DRAGON SQUAD",1,Action,1,4.99,8.0000,26.99,8,Argentina,Avellaneda
+2005,7,250,"DRAGON SQUAD",1,Action,1,3.99,7.0000,26.99,8,Turkey,Tarsus
+2005,8,250,"DRAGON SQUAD",1,Action,1,0.99,4.0000,26.99,8,Poland,Tychy
+2005,7,250,"DRAGON SQUAD",1,Action,1,0.99,1.0000,26.99,8,Germany,Halle/Saale
+2005,8,250,"DRAGON SQUAD",1,Action,1,1.99,5.0000,26.99,8,"South Korea",Naju
+2005,7,250,"DRAGON SQUAD",1,Action,1,4.99,8.0000,26.99,8,Turkey,Eskisehir
+2005,8,250,"DRAGON SQUAD",1,Action,1,0.99,4.0000,26.99,8,Brazil,"São Leopoldo"
+2005,8,250,"DRAGON SQUAD",1,Action,1,2.99,6.0000,26.99,8,"Saint Vincent and the Grenadines",Kingstown
+2005,7,250,"DRAGON SQUAD",1,Action,1,0.99,1.0000,26.99,8,China,Shanwei
+2005,8,250,"DRAGON SQUAD",1,Action,1,0.99,2.0000,26.99,8,Bangladesh,Tangail
+2005,8,250,"DRAGON SQUAD",1,Action,1,3.99,7.0000,26.99,8,India,Gulbarga
+2005,7,252,"DREAM PICKUP",1,Action,1,6.99,10.0000,18.99,4,"United States","Garden Grove"
+2005,8,252,"DREAM PICKUP",1,Action,1,3.99,7.0000,18.99,4,"United States",Arlington
+2005,5,252,"DREAM PICKUP",1,Action,1,4.99,8.0000,18.99,4,India,Parbhani
+2005,6,252,"DREAM PICKUP",1,Action,1,2.99,6.0000,18.99,4,India,"Purnea (Purnia)"
+2005,7,252,"DREAM PICKUP",1,Action,1,5.99,9.0000,18.99,4,"Czech Republic",Olomouc
+2005,7,252,"DREAM PICKUP",1,Action,1,2.99,4.0000,18.99,4,Venezuela,"Ocumare del Tuy"
+2005,8,252,"DREAM PICKUP",1,Action,1,5.99,9.0000,18.99,4,"United States",Manchester
+2005,6,252,"DREAM PICKUP",1,Action,1,2.99,5.0000,18.99,4,Egypt,"Mit Ghamr"
+2005,7,252,"DREAM PICKUP",1,Action,1,2.99,5.0000,18.99,4,Nigeria,"Benin City"
+2005,7,252,"DREAM PICKUP",1,Action,1,3.99,7.0000,18.99,4,Thailand,"Pak Kret"
+2005,8,252,"DREAM PICKUP",1,Action,1,2.99,2.0000,18.99,4,"Russian Federation",Elista
+2005,5,252,"DREAM PICKUP",1,Action,1,2.99,5.0000,18.99,4,Ukraine,Mukatševe
+2005,6,252,"DREAM PICKUP",1,Action,1,2.99,1.0000,18.99,4,Brazil,Maringá
+2005,7,252,"DREAM PICKUP",1,Action,1,4.99,8.0000,18.99,4,Vietnam,Vinh
+2005,7,252,"DREAM PICKUP",1,Action,1,2.99,5.0000,18.99,4,China,Korla
+2005,8,252,"DREAM PICKUP",1,Action,1,2.99,4.0000,18.99,4,Colombia,Pereira
+2005,7,252,"DREAM PICKUP",1,Action,1,2.99,1.0000,18.99,4,"Saudi Arabia",al-Qatif
+2005,8,252,"DREAM PICKUP",1,Action,1,2.99,2.0000,18.99,4,Sweden,Malmö
+2005,6,252,"DREAM PICKUP",1,Action,1,2.99,3.0000,18.99,4,China,Suihua
+2005,7,252,"DREAM PICKUP",1,Action,1,2.99,2.0000,18.99,4,Indonesia,Cianjur
+2005,7,252,"DREAM PICKUP",1,Action,1,2.99,6.0000,18.99,4,Azerbaijan,Sumqayit
+2005,8,252,"DREAM PICKUP",1,Action,1,2.99,6.0000,18.99,4,China,Zhoushan
+2005,7,253,"DRIFTER COMMANDMENTS",1,Action,1,5.99,6.0000,18.99,7,Israel,Ashdod
+2005,7,253,"DRIFTER COMMANDMENTS",1,Action,1,4.99,5.0000,18.99,7,India,Sambhal
+2005,8,253,"DRIFTER COMMANDMENTS",1,Action,1,4.99,1.0000,18.99,7,China,Sanya
+2005,7,253,"DRIFTER COMMANDMENTS",1,Action,1,4.99,2.0000,18.99,7,Colombia,Buenaventura
+2005,7,253,"DRIFTER COMMANDMENTS",1,Action,1,8.99,9.0000,18.99,7,"Russian Federation",Maikop
+2005,8,253,"DRIFTER COMMANDMENTS",1,Action,1,5.99,6.0000,18.99,7,Romania,Botosani
+2005,5,253,"DRIFTER COMMANDMENTS",1,Action,1,4.99,2.0000,18.99,7,Indonesia,Ciomas
+2005,6,253,"DRIFTER COMMANDMENTS",1,Action,1,8.99,9.0000,18.99,7,Philippines,"Santa Rosa"
+2005,7,253,"DRIFTER COMMANDMENTS",1,Action,1,4.99,0.0000,18.99,7,Netherlands,Ede
+2005,7,253,"DRIFTER COMMANDMENTS",1,Action,1,4.99,2.0000,18.99,7,Bolivia,"El Alto"
+2005,8,253,"DRIFTER COMMANDMENTS",1,Action,1,4.99,3.0000,18.99,7,"Congo, The Democratic Republic of the",Mwene-Ditu
+2005,6,253,"DRIFTER COMMANDMENTS",1,Action,1,6.99,7.0000,18.99,7,China,Jining
+2005,7,253,"DRIFTER COMMANDMENTS",1,Action,1,4.99,5.0000,18.99,7,Mozambique,Naçala-Porto
+2005,7,253,"DRIFTER COMMANDMENTS",1,Action,1,6.99,7.0000,18.99,7,India,Patiala
+2005,8,253,"DRIFTER COMMANDMENTS",1,Action,1,4.99,3.0000,18.99,7,Yemen,Aden
+2005,5,253,"DRIFTER COMMANDMENTS",1,Action,1,4.99,2.0000,18.99,7,"Congo, The Democratic Republic of the",Mwene-Ditu
+2005,6,253,"DRIFTER COMMANDMENTS",1,Action,1,4.99,3.0000,18.99,7,Pakistan,Shikarpur
+2005,7,253,"DRIFTER COMMANDMENTS",1,Action,1,4.99,3.0000,18.99,7,Japan,Onomichi
+2005,7,253,"DRIFTER COMMANDMENTS",1,Action,1,6.99,7.0000,18.99,7,Iran,Qomsheh
+2006,2,253,"DRIFTER COMMANDMENTS",1,Action,1,4.99,NULL,18.99,7,"United Kingdom",London
+2005,6,253,"DRIFTER COMMANDMENTS",1,Action,1,8.99,9.0000,18.99,7,Argentina,"La Plata"
+2005,7,253,"DRIFTER COMMANDMENTS",1,Action,1,6.99,7.0000,18.99,7,Indonesia,Pontianak
+2005,7,253,"DRIFTER COMMANDMENTS",1,Action,1,4.99,1.0000,18.99,7,Malaysia,"Sungai Petani"
+2005,8,253,"DRIFTER COMMANDMENTS",1,Action,1,4.99,3.0000,18.99,7,"United States","Citrus Heights"
+2005,5,271,"EASY GLADIATOR",1,Action,1,7.99,8.0000,12.99,3,Malaysia,Kuching
+2005,6,271,"EASY GLADIATOR",1,Action,1,4.99,4.0000,12.99,3,Vietnam,"Nha Trang"
+2005,7,271,"EASY GLADIATOR",1,Action,1,5.99,6.0000,12.99,3,Philippines,Baybay
+2005,8,271,"EASY GLADIATOR",1,Action,1,6.99,7.0000,12.99,3,Argentina,"Santa Fé"
+2005,8,271,"EASY GLADIATOR",1,Action,1,6.99,7.0000,12.99,3,Mexico,"San Felipe del Progreso"
+2005,5,271,"EASY GLADIATOR",1,Action,1,4.99,2.0000,12.99,3,China,Baiyin
+2005,6,271,"EASY GLADIATOR",1,Action,1,6.99,7.0000,12.99,3,Brazil,"Santo André"
+2005,7,271,"EASY GLADIATOR",1,Action,1,8.99,9.0000,12.99,3,Mexico,"San Juan Bautista Tuxtepec"
+2005,7,271,"EASY GLADIATOR",1,Action,1,5.99,6.0000,12.99,3,China,Liaocheng
+2005,8,271,"EASY GLADIATOR",1,Action,1,6.99,7.0000,12.99,3,"Russian Federation",Tšeboksary
+2005,6,271,"EASY GLADIATOR",1,Action,1,5.99,6.0000,12.99,3,"United States","Saint Louis"
+2005,7,271,"EASY GLADIATOR",1,Action,1,6.99,7.0000,12.99,3,"United States",Compton
+2005,7,271,"EASY GLADIATOR",1,Action,1,4.99,5.0000,12.99,3,India,"Munger (Monghyr)"
+2005,8,271,"EASY GLADIATOR",1,Action,1,8.99,9.0000,12.99,3,China,Xi´angtan
+2005,6,271,"EASY GLADIATOR",1,Action,1,4.99,3.0000,12.99,3,Tanzania,Tabora
+2005,7,271,"EASY GLADIATOR",1,Action,1,6.99,7.0000,12.99,3,Mexico,"San Felipe del Progreso"
+2005,7,271,"EASY GLADIATOR",1,Action,1,8.99,9.0000,12.99,3,Ukraine,Simferopol
+2005,8,271,"EASY GLADIATOR",1,Action,1,6.99,7.0000,12.99,3,Belarus,Mogiljov
+2005,5,271,"EASY GLADIATOR",1,Action,1,4.99,5.0000,12.99,3,"Russian Federation",Kaliningrad
+2005,6,271,"EASY GLADIATOR",1,Action,1,8.99,9.0000,12.99,3,"Russian Federation",Elista
+2005,7,271,"EASY GLADIATOR",1,Action,1,4.99,1.0000,12.99,3,Canada,"Richmond Hill"
+2005,7,271,"EASY GLADIATOR",1,Action,1,4.99,2.0000,12.99,3,Taiwan,Lungtan
+2005,8,271,"EASY GLADIATOR",1,Action,1,4.99,4.0000,12.99,3,Israel,Ashdod
+2005,5,287,"ENTRAPMENT SATISFACTION",1,Action,1,3.99,8.0000,19.99,4,Bahrain,al-Manama
+2005,6,287,"ENTRAPMENT SATISFACTION",1,Action,1,5.99,10.0000,19.99,4,Germany,Duisburg
+2005,7,287,"ENTRAPMENT SATISFACTION",1,Action,1,3.99,8.0000,19.99,4,Indonesia,Surakarta
+2005,8,287,"ENTRAPMENT SATISFACTION",1,Action,1,5.99,10.0000,19.99,4,Netherlands,Apeldoorn
+2005,8,287,"ENTRAPMENT SATISFACTION",1,Action,1,2.99,7.0000,19.99,4,Morocco,Salé
+2005,8,287,"ENTRAPMENT SATISFACTION",1,Action,1,4.99,9.0000,19.99,4,"United States",Roanoke
+2005,8,287,"ENTRAPMENT SATISFACTION",1,Action,1,0.99,1.0000,19.99,4,Finland,Oulu
+2005,7,287,"ENTRAPMENT SATISFACTION",1,Action,1,0.99,4.0000,19.99,4,France,Toulouse
+2005,7,287,"ENTRAPMENT SATISFACTION",1,Action,1,3.99,8.0000,19.99,4,"Russian Federation",Pjatigorsk
+2005,8,287,"ENTRAPMENT SATISFACTION",1,Action,1,0.99,1.0000,19.99,4,Taiwan,Chiayi
+2005,5,287,"ENTRAPMENT SATISFACTION",1,Action,1,0.99,1.0000,19.99,4,Mexico,"El Fuerte"
+2005,6,287,"ENTRAPMENT SATISFACTION",1,Action,1,4.99,9.0000,19.99,4,Venezuela,Valencia
+2005,7,287,"ENTRAPMENT SATISFACTION",1,Action,1,3.99,8.0000,19.99,4,"United States",Sunnyvale
+2005,7,287,"ENTRAPMENT SATISFACTION",1,Action,1,0.99,5.0000,19.99,4,Nigeria,Sokoto
+2005,8,287,"ENTRAPMENT SATISFACTION",1,Action,1,1.99,6.0000,19.99,4,Indonesia,Pontianak
+2005,7,292,"EXCITEMENT EVE",1,Action,1,0.99,3.0000,20.99,8,Colombia,"Dos Quebradas"
+2005,8,292,"EXCITEMENT EVE",1,Action,1,5.99,8.0000,20.99,8,Greenland,Nuuk
+2005,8,292,"EXCITEMENT EVE",1,Action,1,5.99,8.0000,20.99,8,Nigeria,Ondo
+2005,8,292,"EXCITEMENT EVE",1,Action,1,6.99,9.0000,20.99,8,Pakistan,Dadu
+2005,8,292,"EXCITEMENT EVE",1,Action,1,0.99,1.0000,20.99,8,Algeria,Béchar
+2005,5,292,"EXCITEMENT EVE",1,Action,1,5.99,8.0000,20.99,8,Turkey,Tokat
+2005,6,292,"EXCITEMENT EVE",1,Action,1,2.99,5.0000,20.99,8,"United Kingdom",York
+2005,7,292,"EXCITEMENT EVE",1,Action,1,4.99,7.0000,20.99,8,"South Africa",Paarl
+2005,8,292,"EXCITEMENT EVE",1,Action,1,2.99,5.0000,20.99,8,India,Halisahar
+2005,8,292,"EXCITEMENT EVE",1,Action,1,5.99,8.0000,20.99,8,"Saudi Arabia",Jedda
+2005,7,292,"EXCITEMENT EVE",1,Action,1,0.99,2.0000,20.99,8,Romania,Bucuresti
+2005,7,292,"EXCITEMENT EVE",1,Action,1,0.99,1.0000,20.99,8,Venezuela,Caracas
+2005,8,292,"EXCITEMENT EVE",1,Action,1,1.99,4.0000,20.99,8,China,Zaoyang
+2005,6,292,"EXCITEMENT EVE",1,Action,1,5.99,8.0000,20.99,8,"United States",Garland
+2005,7,292,"EXCITEMENT EVE",1,Action,1,0.99,2.0000,20.99,8,Canada,"Richmond Hill"
+2005,7,292,"EXCITEMENT EVE",1,Action,1,1.99,4.0000,20.99,8,"French Guiana",Cayenne
+2005,8,292,"EXCITEMENT EVE",1,Action,1,0.99,2.0000,20.99,8,France,Toulon
+2005,6,292,"EXCITEMENT EVE",1,Action,1,5.99,8.0000,20.99,8,Liechtenstein,Vaduz
+2005,7,292,"EXCITEMENT EVE",1,Action,1,1.99,4.0000,20.99,8,Mexico,Cuautla
+2005,7,292,"EXCITEMENT EVE",1,Action,1,0.99,2.0000,20.99,8,Switzerland,Bern
+2005,8,292,"EXCITEMENT EVE",1,Action,1,0.99,1.0000,20.99,8,Italy,Brescia
+2005,7,303,"FANTASY TROOPERS",1,Action,1,0.99,1.0000,27.99,9,"Russian Federation",Tšeboksary
+2005,7,303,"FANTASY TROOPERS",1,Action,1,0.99,5.0000,27.99,9,"Virgin Islands, U.S.","Charlotte Amalie"
+2005,8,303,"FANTASY TROOPERS",1,Action,1,1.99,7.0000,27.99,9,China,Changzhou
+2005,7,303,"FANTASY TROOPERS",1,Action,1,0.99,3.0000,27.99,9,India,"Yamuna Nagar"
+2005,7,303,"FANTASY TROOPERS",1,Action,1,0.99,6.0000,27.99,9,India,Gulbarga
+2005,8,303,"FANTASY TROOPERS",1,Action,2,1.98,4.0000,27.99,9,Philippines,Taguig
+2005,5,303,"FANTASY TROOPERS",1,Action,1,1.99,7.0000,27.99,9,India,Haldia
+2005,6,303,"FANTASY TROOPERS",1,Action,1,3.99,9.0000,27.99,9,China,Datong
+2005,7,303,"FANTASY TROOPERS",1,Action,1,0.99,1.0000,27.99,9,China,Qinhuangdao
+2005,7,303,"FANTASY TROOPERS",1,Action,1,0.99,3.0000,27.99,9,India,Uluberia
+2005,8,303,"FANTASY TROOPERS",1,Action,1,0.99,4.0000,27.99,9,Germany,Mannheim
+2005,5,303,"FANTASY TROOPERS",1,Action,1,3.99,9.0000,27.99,9,Austria,Linz
+2005,6,303,"FANTASY TROOPERS",1,Action,1,2.99,8.0000,27.99,9,Japan,Izumisano
+2005,7,303,"FANTASY TROOPERS",1,Action,1,3.99,9.0000,27.99,9,Mexico,Cuautla
+2005,7,303,"FANTASY TROOPERS",1,Action,1,0.99,5.0000,27.99,9,"United States",Lincoln
+2005,8,303,"FANTASY TROOPERS",1,Action,1,0.99,6.0000,27.99,9,Cambodia,"Phnom Penh"
+2005,5,303,"FANTASY TROOPERS",1,Action,1,0.99,3.0000,27.99,9,Greenland,Nuuk
+2005,6,303,"FANTASY TROOPERS",1,Action,1,3.99,9.0000,27.99,9,"South Africa",Springs
+2005,7,303,"FANTASY TROOPERS",1,Action,1,0.99,2.0000,27.99,9,Brazil,Poá
+2005,7,303,"FANTASY TROOPERS",1,Action,1,0.99,6.0000,27.99,9,"United States","San Bernardino"
+2005,8,303,"FANTASY TROOPERS",1,Action,1,0.99,4.0000,27.99,9,Cameroon,Yaoundé
+2005,5,303,"FANTASY TROOPERS",1,Action,1,0.99,1.0000,27.99,9,India,Hoshiarpur
+2005,6,303,"FANTASY TROOPERS",1,Action,1,1.99,7.0000,27.99,9,"Russian Federation",Kolpino
+2005,7,303,"FANTASY TROOPERS",1,Action,1,3.99,9.0000,27.99,9,Spain,"Donostia-San Sebastián"
+2005,8,303,"FANTASY TROOPERS",1,Action,1,0.99,4.0000,27.99,9,Mexico,Cuautla
+2005,6,327,"FOOL MOCKINGBIRD",1,Action,1,5.99,4.0000,24.99,2,India,Chandrapur
+2005,7,327,"FOOL MOCKINGBIRD",1,Action,1,4.99,3.0000,24.99,2,Venezuela,Maracaíbo
+2005,7,327,"FOOL MOCKINGBIRD",1,Action,1,4.99,2.0000,24.99,2,Argentina,"La Plata"
+2005,8,327,"FOOL MOCKINGBIRD",1,Action,1,4.99,2.0000,24.99,2,Spain,Gijón
+2005,6,327,"FOOL MOCKINGBIRD",1,Action,1,9.99,8.0000,24.99,2,China,Zhoushan
+2005,7,327,"FOOL MOCKINGBIRD",1,Action,1,8.99,7.0000,24.99,2,Ukraine,Kamjanets-Podilskyi
+2005,7,327,"FOOL MOCKINGBIRD",1,Action,1,4.99,3.0000,24.99,2,"Russian Federation",Pjatigorsk
+2005,8,327,"FOOL MOCKINGBIRD",1,Action,1,10.99,9.0000,24.99,2,Colombia,Sincelejo
+2005,7,327,"FOOL MOCKINGBIRD",1,Action,1,8.99,7.0000,24.99,2,Nigeria,"Benin City"
+2005,8,327,"FOOL MOCKINGBIRD",1,Action,1,4.99,1.0000,24.99,2,Turkey,Inegöl
+2005,5,327,"FOOL MOCKINGBIRD",1,Action,1,5.99,4.0000,24.99,2,Mexico,"Valle de Santiago"
+2005,6,327,"FOOL MOCKINGBIRD",1,Action,1,7.99,6.0000,24.99,2,"United States","Sterling Heights"
+2005,7,327,"FOOL MOCKINGBIRD",1,Action,1,7.99,6.0000,24.99,2,Egypt,"Shubra al-Khayma"
+2005,7,327,"FOOL MOCKINGBIRD",1,Action,1,7.99,6.0000,24.99,2,"United Kingdom",Bradford
+2005,8,327,"FOOL MOCKINGBIRD",1,Action,1,10.99,9.0000,24.99,2,Yemen,Hodeida
+2005,7,327,"FOOL MOCKINGBIRD",1,Action,1,9.99,8.0000,24.99,2,Belarus,Molodetšno
+2005,7,327,"FOOL MOCKINGBIRD",1,Action,1,6.99,5.0000,24.99,2,China,Shanwei
+2005,8,327,"FOOL MOCKINGBIRD",1,Action,1,4.99,3.0000,24.99,2,India,Halisahar
+2005,5,327,"FOOL MOCKINGBIRD",1,Action,1,6.99,5.0000,24.99,2,"Russian Federation",Kursk
+2005,6,327,"FOOL MOCKINGBIRD",1,Action,1,7.99,6.0000,24.99,2,Japan,Hino
+2005,7,327,"FOOL MOCKINGBIRD",1,Action,1,8.99,7.0000,24.99,2,Philippines,Baybay
+2005,8,327,"FOOL MOCKINGBIRD",1,Action,1,7.99,6.0000,24.99,2,India,"Rae Bareli"
+2005,8,327,"FOOL MOCKINGBIRD",1,Action,1,10.99,9.0000,24.99,2,"United States","Cape Coral"
+2005,8,329,"FORREST SONS",1,Action,1,7.99,9.0000,15.99,5,Germany,Siegen
+2005,8,329,"FORREST SONS",1,Action,1,3.99,5.0000,15.99,5,Thailand,"Nakhon Sawan"
+2005,6,329,"FORREST SONS",1,Action,1,2.99,4.0000,15.99,5,China,Baicheng
+2005,7,329,"FORREST SONS",1,Action,1,2.99,1.0000,15.99,5,Indonesia,Pemalang
+2005,7,329,"FORREST SONS",1,Action,1,6.99,8.0000,15.99,5,India,Parbhani
+2005,8,329,"FORREST SONS",1,Action,1,4.99,6.0000,15.99,5,Colombia,"Dos Quebradas"
+2005,7,329,"FORREST SONS",1,Action,1,3.99,5.0000,15.99,5,"New Zealand",Hamilton
+2005,7,329,"FORREST SONS",1,Action,1,6.99,8.0000,15.99,5,"United States","Citrus Heights"
+2005,8,329,"FORREST SONS",1,Action,1,2.99,1.0000,15.99,5,Yemen,Hodeida
+2005,8,329,"FORREST SONS",1,Action,1,7.99,9.0000,15.99,5,Argentina,Avellaneda
+2005,8,329,"FORREST SONS",1,Action,1,2.99,4.0000,15.99,5,India,Hubli-Dharwad
+2005,5,329,"FORREST SONS",1,Action,1,3.99,5.0000,15.99,5,Spain,Gijón
+2005,6,329,"FORREST SONS",1,Action,1,4.99,6.0000,15.99,5,Philippines,Bislig
+2005,7,329,"FORREST SONS",1,Action,1,3.99,5.0000,15.99,5,"United States","El Monte"
+2005,8,329,"FORREST SONS",1,Action,1,6.99,8.0000,15.99,5,Nigeria,Ondo
+2005,8,329,"FORREST SONS",1,Action,1,4.99,6.0000,15.99,5,"French Polynesia",Papeete
+2005,8,329,"FORREST SONS",1,Action,1,4.99,6.0000,15.99,5,Venezuela,Caracas
+2005,8,329,"FORREST SONS",1,Action,1,2.99,2.0000,15.99,5,"United States",Clarksville
+2005,7,360,"GLASS DYING",1,Action,1,3.99,7.0000,24.99,4,China,Shenzhen
+2005,8,360,"GLASS DYING",1,Action,1,0.99,3.0000,24.99,4,Malaysia,Ipoh
+2005,5,360,"GLASS DYING",1,Action,1,5.99,9.0000,24.99,4,Thailand,"Pak Kret"
+2005,6,360,"GLASS DYING",1,Action,1,5.99,9.0000,24.99,4,"South Africa",Springs
+2005,7,360,"GLASS DYING",1,Action,1,4.99,8.0000,24.99,4,Israel,Ashqelon
+2005,8,360,"GLASS DYING",1,Action,1,4.99,8.0000,24.99,4,China,Dongying
+2005,8,360,"GLASS DYING",1,Action,1,0.99,3.0000,24.99,4,Chile,Rancagua
+2005,5,360,"GLASS DYING",1,Action,1,1.99,5.0000,24.99,4,Chile,Rancagua
+2005,6,360,"GLASS DYING",1,Action,1,0.99,4.0000,24.99,4,Japan,Shimonoseki
+2005,7,360,"GLASS DYING",1,Action,1,0.99,1.0000,24.99,4,Cambodia,"Phnom Penh"
+2005,7,360,"GLASS DYING",1,Action,1,5.99,9.0000,24.99,4,"South Africa",Rustenburg
+2005,8,360,"GLASS DYING",1,Action,1,3.99,7.0000,24.99,4,India,Satna
+2005,8,360,"GLASS DYING",1,Action,1,0.99,3.0000,24.99,4,Turkey,Batman
+2005,8,360,"GLASS DYING",1,Action,1,0.99,3.0000,24.99,4,China,Fuyu
+2005,6,371,"GOSFORD DONNIE",1,Action,1,7.99,8.0000,17.99,3,Kazakstan,Zhezqazghan
+2005,7,371,"GOSFORD DONNIE",1,Action,1,4.99,1.0000,17.99,3,India,Shivapuri
+2005,7,371,"GOSFORD DONNIE",1,Action,1,4.99,3.0000,17.99,3,Argentina,Escobar
+2005,7,371,"GOSFORD DONNIE",1,Action,1,4.99,3.0000,17.99,3,Greece,Athenai
+2005,8,371,"GOSFORD DONNIE",1,Action,1,4.99,4.0000,17.99,3,China,Emeishan
+2005,8,371,"GOSFORD DONNIE",1,Action,1,7.99,8.0000,17.99,3,Azerbaijan,Sumqayit
+2005,7,371,"GOSFORD DONNIE",1,Action,1,4.99,1.0000,17.99,3,Mexico,Guadalajara
+2005,8,371,"GOSFORD DONNIE",1,Action,1,7.99,8.0000,17.99,3,Iran,Qomsheh
+2005,5,375,"GRAIL FRANKENSTEIN",1,Action,1,4.99,6.0000,17.99,5,Brazil,Poá
+2005,6,375,"GRAIL FRANKENSTEIN",1,Action,1,4.99,6.0000,17.99,5,Iran,"Shahr-e Kord"
+2005,7,375,"GRAIL FRANKENSTEIN",1,Action,1,6.99,8.0000,17.99,5,India,Vijayawada
+2005,7,375,"GRAIL FRANKENSTEIN",1,Action,1,2.99,3.0000,17.99,5,Ukraine,Šostka
+2006,2,375,"GRAIL FRANKENSTEIN",1,Action,1,2.99,NULL,17.99,5,"United States",Aurora
+2005,5,375,"GRAIL FRANKENSTEIN",1,Action,1,6.99,8.0000,17.99,5,Morocco,Beni-Mellal
+2005,6,375,"GRAIL FRANKENSTEIN",1,Action,1,2.99,1.0000,17.99,5,India,Gandhinagar
+2005,7,375,"GRAIL FRANKENSTEIN",1,Action,1,7.99,9.0000,17.99,5,Brazil,Maringá
+2005,7,375,"GRAIL FRANKENSTEIN",1,Action,1,2.99,2.0000,17.99,5,Egypt,Bilbays
+2005,8,375,"GRAIL FRANKENSTEIN",1,Action,1,8.99,10.0000,17.99,5,Nigeria,Ilorin
+2005,5,395,"HANDICAP BOONDOCK",1,Action,1,3.99,7.0000,28.99,7,Chad,NDjamna
+2005,6,395,"HANDICAP BOONDOCK",1,Action,1,0.99,2.0000,28.99,7,Ukraine,Simferopol
+2005,7,395,"HANDICAP BOONDOCK",1,Action,1,0.99,1.0000,28.99,7,Turkey,Tokat
+2005,8,395,"HANDICAP BOONDOCK",1,Action,1,2.99,6.0000,28.99,7,Canada,"Richmond Hill"
+2005,8,395,"HANDICAP BOONDOCK",1,Action,1,0.99,1.0000,28.99,7,India,"Dhule (Dhulia)"
+2005,5,395,"HANDICAP BOONDOCK",1,Action,1,5.99,9.0000,28.99,7,"United States","Citrus Heights"
+2005,6,395,"HANDICAP BOONDOCK",1,Action,1,1.99,5.0000,28.99,7,Venezuela,"Ocumare del Tuy"
+2005,7,395,"HANDICAP BOONDOCK",1,Action,1,0.99,3.0000,28.99,7,Japan,Koriyama
+2005,8,395,"HANDICAP BOONDOCK",1,Action,1,0.99,3.0000,28.99,7,"Saudi Arabia",al-Qatif
+2005,8,395,"HANDICAP BOONDOCK",1,Action,1,0.99,3.0000,28.99,7,Turkey,Inegöl
+2005,5,395,"HANDICAP BOONDOCK",1,Action,1,1.99,5.0000,28.99,7,Austria,Linz
+2005,6,395,"HANDICAP BOONDOCK",1,Action,1,0.99,4.0000,28.99,7,"United States",Laredo
+2005,7,395,"HANDICAP BOONDOCK",1,Action,1,4.99,8.0000,28.99,7,"United States","Garden Grove"
+2005,8,395,"HANDICAP BOONDOCK",1,Action,1,2.99,6.0000,28.99,7,"United States",Memphis
+2005,8,395,"HANDICAP BOONDOCK",1,Action,1,4.99,8.0000,28.99,7,Philippines,Cabuyao
+2005,5,395,"HANDICAP BOONDOCK",1,Action,1,0.99,3.0000,28.99,7,Colombia,Florencia
+2005,6,395,"HANDICAP BOONDOCK",1,Action,1,0.99,2.0000,28.99,7,China,Junan
+2005,7,395,"HANDICAP BOONDOCK",1,Action,1,1.99,5.0000,28.99,7,India,Balurghat
+2005,7,395,"HANDICAP BOONDOCK",1,Action,1,0.99,4.0000,28.99,7,India,Chandrapur
+2005,8,395,"HANDICAP BOONDOCK",1,Action,1,0.99,3.0000,28.99,7,Indonesia,Lhokseumawe
+2005,6,395,"HANDICAP BOONDOCK",1,Action,1,2.99,6.0000,28.99,7,Oman,Salala
+2005,7,395,"HANDICAP BOONDOCK",1,Action,1,2.99,6.0000,28.99,7,"Puerto Rico",Ponce
+2005,8,395,"HANDICAP BOONDOCK",1,Action,1,3.99,7.0000,28.99,7,"South Africa",Chatsworth
+2005,8,395,"HANDICAP BOONDOCK",1,Action,1,0.99,2.0000,28.99,7,Philippines,Cavite
+2005,6,395,"HANDICAP BOONDOCK",1,Action,1,5.99,9.0000,28.99,7,Paraguay,"Ciudad del Este"
+2005,7,395,"HANDICAP BOONDOCK",1,Action,1,1.99,5.0000,28.99,7,India,"Palghat (Palakkad)"
+2005,7,395,"HANDICAP BOONDOCK",1,Action,1,0.99,3.0000,28.99,7,China,Datong
+2005,8,395,"HANDICAP BOONDOCK",1,Action,1,0.99,3.0000,28.99,7,Venezuela,Maracaíbo
+2005,7,417,"HILLS NEIGHBORS",1,Action,1,0.99,3.0000,29.99,6,Philippines,Mandaluyong
+2005,7,417,"HILLS NEIGHBORS",1,Action,1,1.99,6.0000,29.99,6,Zambia,Kitwe
+2005,8,417,"HILLS NEIGHBORS",1,Action,1,2.99,7.0000,29.99,6,Taiwan,Touliu
+2005,8,417,"HILLS NEIGHBORS",1,Action,1,2.99,7.0000,29.99,6,"United States",Fontana
+2005,8,417,"HILLS NEIGHBORS",1,Action,1,4.99,9.0000,29.99,6,Taiwan,Lungtan
+2005,5,417,"HILLS NEIGHBORS",1,Action,1,3.99,8.0000,29.99,6,India,Parbhani
+2005,6,417,"HILLS NEIGHBORS",1,Action,1,0.99,3.0000,29.99,6,Iran,Qomsheh
+2005,7,417,"HILLS NEIGHBORS",1,Action,1,0.99,3.0000,29.99,6,Germany,Siegen
+2005,7,417,"HILLS NEIGHBORS",1,Action,1,0.99,3.0000,29.99,6,"North Korea",Pyongyang
+2005,8,417,"HILLS NEIGHBORS",1,Action,1,3.99,8.0000,29.99,6,Bahrain,al-Manama
+2005,5,417,"HILLS NEIGHBORS",1,Action,1,4.99,9.0000,29.99,6,Tanzania,Tabora
+2005,6,417,"HILLS NEIGHBORS",1,Action,1,3.99,8.0000,29.99,6,"United Kingdom",Southampton
+2005,7,417,"HILLS NEIGHBORS",1,Action,1,0.99,2.0000,29.99,6,"Russian Federation",Serpuhov
+2005,7,417,"HILLS NEIGHBORS",1,Action,1,2.99,7.0000,29.99,6,Poland,Lublin
+2005,8,417,"HILLS NEIGHBORS",1,Action,1,0.99,2.0000,29.99,6,Romania,Botosani
+2005,5,417,"HILLS NEIGHBORS",1,Action,1,3.99,8.0000,29.99,6,India,Ambattur
+2005,6,417,"HILLS NEIGHBORS",1,Action,1,4.99,9.0000,29.99,6,Bulgaria,Ruse
+2005,7,417,"HILLS NEIGHBORS",1,Action,1,0.99,5.0000,29.99,6,India,Uluberia
+2005,8,417,"HILLS NEIGHBORS",1,Action,1,0.99,5.0000,29.99,6,"South Korea",Cheju
+2005,8,417,"HILLS NEIGHBORS",1,Action,1,4.99,9.0000,29.99,6,Mexico,"San Felipe del Progreso"
+2005,5,417,"HILLS NEIGHBORS",1,Action,1,0.99,3.0000,29.99,6,Iran,"Shahr-e Kord"
+2005,6,417,"HILLS NEIGHBORS",1,Action,1,4.99,9.0000,29.99,6,India,"Varanasi (Benares)"
+2005,7,417,"HILLS NEIGHBORS",1,Action,1,3.99,8.0000,29.99,6,Nigeria,Kaduna
+2005,7,417,"HILLS NEIGHBORS",1,Action,1,2.99,7.0000,29.99,6,"Saint Vincent and the Grenadines",Kingstown
+2005,8,417,"HILLS NEIGHBORS",1,Action,1,4.99,9.0000,29.99,6,Mexico,Celaya
+2005,6,501,"KISSING DOLLS",1,Action,1,4.99,3.0000,9.99,3,Algeria,Batna
+2005,7,501,"KISSING DOLLS",1,Action,1,4.99,3.0000,9.99,3,Brazil,Anápolis
+2005,8,501,"KISSING DOLLS",1,Action,1,10.99,9.0000,9.99,3,India,"Rae Bareli"
+2005,8,501,"KISSING DOLLS",1,Action,1,7.99,6.0000,9.99,3,China,Tiefa
+2005,5,501,"KISSING DOLLS",1,Action,1,4.99,2.0000,9.99,3,Ecuador,Portoviejo
+2005,6,501,"KISSING DOLLS",1,Action,1,10.99,9.0000,9.99,3,"Hong Kong","Kowloon and New Kowloon"
+2005,7,501,"KISSING DOLLS",1,Action,1,4.99,0.0000,9.99,3,"South Africa",Rustenburg
+2005,7,501,"KISSING DOLLS",1,Action,1,4.99,1.0000,9.99,3,Mexico,Cuautla
+2005,5,501,"KISSING DOLLS",1,Action,1,10.99,9.0000,9.99,3,France,Toulon
+2005,6,501,"KISSING DOLLS",1,Action,1,6.99,5.0000,9.99,3,Israel,Ashqelon
+2005,7,501,"KISSING DOLLS",1,Action,1,6.99,5.0000,9.99,3,Yugoslavia,"Novi Sad"
+2005,8,501,"KISSING DOLLS",1,Action,1,9.99,8.0000,9.99,3,China,Qinhuangdao
+2005,8,501,"KISSING DOLLS",1,Action,1,5.99,4.0000,9.99,3,India,Satna
+2005,6,501,"KISSING DOLLS",1,Action,1,7.99,6.0000,9.99,3,Mexico,Uruapan
+2005,7,501,"KISSING DOLLS",1,Action,1,10.99,9.0000,9.99,3,Japan,Kakamigahara
+2005,8,501,"KISSING DOLLS",1,Action,1,4.99,1.0000,9.99,3,India,Tambaram
+2005,8,501,"KISSING DOLLS",1,Action,1,4.99,3.0000,9.99,3,Egypt,Bilbays
+2005,6,501,"KISSING DOLLS",1,Action,1,8.99,7.0000,9.99,3,Ukraine,Simferopol
+2005,7,501,"KISSING DOLLS",1,Action,1,8.99,7.0000,9.99,3,"United Arab Emirates",Sharja
+2005,7,501,"KISSING DOLLS",1,Action,1,4.99,1.0000,9.99,3,Philippines,Iligan
+2005,6,511,"LAWRENCE LOVE",1,Action,1,0.99,5.0000,23.99,2,Poland,Jastrzebie-Zdrój
+2005,7,511,"LAWRENCE LOVE",1,Action,1,0.99,5.0000,23.99,2,India,Hoshiarpur
+2005,7,511,"LAWRENCE LOVE",1,Action,1,0.99,2.0000,23.99,2,"South Korea",Kimchon
+2005,8,511,"LAWRENCE LOVE",1,Action,1,0.99,1.0000,23.99,2,Turkey,Kütahya
+2005,7,511,"LAWRENCE LOVE",1,Action,1,0.99,7.0000,23.99,2,Taiwan,Nantou
+2005,7,511,"LAWRENCE LOVE",1,Action,1,0.99,3.0000,23.99,2,Yemen,Sanaa
+2005,8,511,"LAWRENCE LOVE",1,Action,1,0.99,5.0000,23.99,2,Argentina,Tandil
+2005,7,511,"LAWRENCE LOVE",1,Action,1,0.99,1.0000,23.99,2,Venezuela,Caracas
+2005,8,511,"LAWRENCE LOVE",1,Action,1,2.99,9.0000,23.99,2,Japan,Urawa
+2005,7,511,"LAWRENCE LOVE",1,Action,1,1.99,8.0000,23.99,2,Argentina,"Bahía Blanca"
+2005,8,511,"LAWRENCE LOVE",1,Action,1,0.99,5.0000,23.99,2,Azerbaijan,Sumqayit
+2005,7,511,"LAWRENCE LOVE",1,Action,1,0.99,2.0000,23.99,2,Argentina,Córdoba
+2005,8,511,"LAWRENCE LOVE",1,Action,1,0.99,6.0000,23.99,2,Mexico,Hidalgo
+2005,7,530,"LORD ARIZONA",1,Action,1,2.99,2.0000,27.99,6,Ukraine,Simferopol
+2005,7,530,"LORD ARIZONA",1,Action,1,2.99,4.0000,27.99,6,Mexico,"San Juan Bautista Tuxtepec"
+2005,8,530,"LORD ARIZONA",1,Action,1,5.99,8.0000,27.99,6,Argentina,Avellaneda
+2005,5,530,"LORD ARIZONA",1,Action,1,2.99,2.0000,27.99,6,Vietnam,"Nam Dinh"
+2005,6,530,"LORD ARIZONA",1,Action,1,3.99,6.0000,27.99,6,"Russian Federation",Pjatigorsk
+2005,7,530,"LORD ARIZONA",1,Action,1,4.99,7.0000,27.99,6,Kenya,Nyeri
+2005,8,530,"LORD ARIZONA",1,Action,1,5.99,8.0000,27.99,6,Austria,Salzburg
+2006,2,530,"LORD ARIZONA",1,Action,1,2.99,NULL,27.99,6,Turkey,Sultanbeyli
+2005,7,530,"LORD ARIZONA",1,Action,1,3.99,6.0000,27.99,6,Algeria,Skikda
+2005,8,530,"LORD ARIZONA",1,Action,1,2.99,2.0000,27.99,6,Yemen,Sanaa
+2005,8,530,"LORD ARIZONA",1,Action,1,2.99,5.0000,27.99,6,Philippines,Cabuyao
+2005,6,542,"LUST LOCK",1,Action,1,2.99,0.0000,28.99,7,Colombia,Sincelejo
+2005,7,542,"LUST LOCK",1,Action,2,15.98,8.0000,28.99,7,Mexico,Coatzacoalcos
+2005,7,542,"LUST LOCK",1,Action,1,4.99,5.0000,28.99,7,Brazil,Bagé
+2005,8,542,"LUST LOCK",1,Action,1,4.99,5.0000,28.99,7,Mexico,Mexicali
+2005,7,542,"LUST LOCK",1,Action,1,2.99,1.0000,28.99,7,India,Ranchi
+2005,8,542,"LUST LOCK",1,Action,1,6.99,7.0000,28.99,7,Malaysia,Kuching
+2005,7,542,"LUST LOCK",1,Action,1,2.99,2.0000,28.99,7,Mexico,"Valle de Santiago"
+2006,2,542,"LUST LOCK",1,Action,1,7.98,NULL,28.99,7,China,Lengshuijiang
+2005,7,542,"LUST LOCK",1,Action,1,3.99,4.0000,28.99,7,Thailand,"Nakhon Sawan"
+2005,7,542,"LUST LOCK",1,Action,1,2.99,3.0000,28.99,7,Japan,Tama
+2005,8,542,"LUST LOCK",1,Action,1,2.99,1.0000,28.99,7,Mexico,Hidalgo
+2006,2,542,"LUST LOCK",1,Action,1,8.97,NULL,28.99,7,Taiwan,Changhwa
+2005,7,542,"LUST LOCK",1,Action,1,2.99,1.0000,28.99,7,China,Yuncheng
+2005,8,542,"LUST LOCK",1,Action,1,2.99,2.0000,28.99,7,"United States",Joliet
+2005,7,549,"MAGNOLIA FORRESTER",1,Action,1,4.99,8.0000,28.99,7,"Russian Federation",Niznekamsk
+2005,8,549,"MAGNOLIA FORRESTER",1,Action,1,0.99,3.0000,28.99,7,India,Jaipur
+2005,8,549,"MAGNOLIA FORRESTER",1,Action,1,2.99,6.0000,28.99,7,Brazil,"São Leopoldo"
+2005,7,549,"MAGNOLIA FORRESTER",1,Action,1,5.99,9.0000,28.99,7,India,Pathankot
+2005,7,549,"MAGNOLIA FORRESTER",1,Action,1,4.99,8.0000,28.99,7,Japan,Iwaki
+2005,8,549,"MAGNOLIA FORRESTER",1,Action,1,0.99,4.0000,28.99,7,Japan,Shimonoseki
+2005,8,549,"MAGNOLIA FORRESTER",1,Action,1,2.99,6.0000,28.99,7,Brazil,Ibirité
+2005,8,549,"MAGNOLIA FORRESTER",1,Action,1,5.99,9.0000,28.99,7,"Saudi Arabia",Tabuk
+2005,7,549,"MAGNOLIA FORRESTER",1,Action,1,0.99,3.0000,28.99,7,Ecuador,Loja
+2005,8,549,"MAGNOLIA FORRESTER",1,Action,1,0.99,1.0000,28.99,7,"Russian Federation",Smolensk
+2005,8,549,"MAGNOLIA FORRESTER",1,Action,1,2.99,6.0000,28.99,7,China,Ezhou
+2005,8,574,"MIDNIGHT WESTWARD",1,Action,1,0.99,2.0000,19.99,9,Cameroon,Yaoundé
+2005,8,574,"MIDNIGHT WESTWARD",1,Action,1,3.99,6.0000,19.99,9,China,Baiyin
+2005,5,574,"MIDNIGHT WESTWARD",1,Action,1,6.99,9.0000,19.99,9,Greece,Patras
+2005,6,574,"MIDNIGHT WESTWARD",1,Action,1,0.99,0.0000,19.99,9,Italy,Bergamo
+2005,7,574,"MIDNIGHT WESTWARD",1,Action,1,6.99,9.0000,19.99,9,Nigeria,"Benin City"
+2005,7,574,"MIDNIGHT WESTWARD",1,Action,1,0.99,1.0000,19.99,9,India,Pune
+2005,8,574,"MIDNIGHT WESTWARD",1,Action,1,0.99,3.0000,19.99,9,Tanzania,Mwanza
+2005,7,574,"MIDNIGHT WESTWARD",1,Action,1,4.99,7.0000,19.99,9,India,Vijayawada
+2005,7,574,"MIDNIGHT WESTWARD",1,Action,1,0.99,2.0000,19.99,9,Venezuela,"Valle de la Pascua"
+2006,2,574,"MIDNIGHT WESTWARD",1,Action,1,0.99,NULL,19.99,9,France,"Le Mans"
+2005,7,574,"MIDNIGHT WESTWARD",1,Action,1,3.99,6.0000,19.99,9,Spain,"Donostia-San Sebastián"
+2005,7,574,"MIDNIGHT WESTWARD",1,Action,1,0.99,1.0000,19.99,9,"Puerto Rico",Arecibo
+2005,8,574,"MIDNIGHT WESTWARD",1,Action,1,2.99,5.0000,19.99,9,Mexico,Nezahualcóyotl
+2005,6,574,"MIDNIGHT WESTWARD",1,Action,1,1.99,4.0000,19.99,9,"Russian Federation",Korolev
+2005,7,574,"MIDNIGHT WESTWARD",1,Action,1,1.99,4.0000,19.99,9,China,Qinhuangdao
+2005,7,574,"MIDNIGHT WESTWARD",1,Action,1,2.99,5.0000,19.99,9,"Saudi Arabia",al-Qatif
+2005,8,574,"MIDNIGHT WESTWARD",1,Action,1,1.99,4.0000,19.99,9,Italy,Bergamo
+2005,5,579,"MINDS TRUMAN",1,Action,1,4.99,2.0000,22.99,6,India,"Berhampore (Baharampur)"
+2005,6,579,"MINDS TRUMAN",1,Action,1,7.99,6.0000,22.99,6,Indonesia,Gorontalo
+2005,7,579,"MINDS TRUMAN",1,Action,1,6.99,5.0000,22.99,6,"Russian Federation",Jelets
+2005,7,579,"MINDS TRUMAN",1,Action,1,8.99,7.0000,22.99,6,"Russian Federation",Kirovo-Tšepetsk
+2005,8,579,"MINDS TRUMAN",1,Action,1,8.99,7.0000,22.99,6,Ukraine,Sumy
+2005,7,579,"MINDS TRUMAN",1,Action,1,7.99,6.0000,22.99,6,Indonesia,Probolinggo
+2005,8,579,"MINDS TRUMAN",1,Action,1,4.99,1.0000,22.99,6,Japan,Kurashiki
+2005,8,579,"MINDS TRUMAN",1,Action,1,4.99,2.0000,22.99,6,Japan,Sasebo
+2005,7,579,"MINDS TRUMAN",1,Action,1,6.99,5.0000,22.99,6,"Russian Federation","Nabereznyje Tšelny"
+2005,8,579,"MINDS TRUMAN",1,Action,1,10.99,9.0000,22.99,6,Philippines,Cavite
+2005,7,579,"MINDS TRUMAN",1,Action,1,4.99,3.0000,22.99,6,Turkey,Sivas
+2005,8,579,"MINDS TRUMAN",1,Action,1,10.99,9.0000,22.99,6,Indonesia,Probolinggo
+2005,8,579,"MINDS TRUMAN",1,Action,1,4.99,1.0000,22.99,6,"French Polynesia",Faaa
+2005,7,579,"MINDS TRUMAN",1,Action,1,8.99,7.0000,22.99,6,Colombia,Sogamoso
+2005,7,579,"MINDS TRUMAN",1,Action,1,8.99,7.0000,22.99,6,Bangladesh,Dhaka
+2005,8,579,"MINDS TRUMAN",1,Action,1,5.99,4.0000,22.99,6,"United Arab Emirates",al-Ayn
+2005,7,579,"MINDS TRUMAN",1,Action,1,4.99,1.0000,22.99,6,Nigeria,Ikerre
+2005,8,579,"MINDS TRUMAN",1,Action,1,4.99,1.0000,22.99,6,India,"Munger (Monghyr)"
+2005,8,579,"MINDS TRUMAN",1,Action,1,10.99,9.0000,22.99,6,Réunion,Saint-Denis
+2005,8,579,"MINDS TRUMAN",1,Action,1,9.99,8.0000,22.99,6,Argentina,"Bahía Blanca"
+2005,6,586,"MOCKINGBIRD HOLLYWOOD",1,Action,1,3.99,7.0000,27.99,3,"United States",Dallas
+2005,7,586,"MOCKINGBIRD HOLLYWOOD",1,Action,1,0.99,2.0000,27.99,3,Japan,Otsu
+2005,7,586,"MOCKINGBIRD HOLLYWOOD",1,Action,1,4.99,8.0000,27.99,3,Argentina,Avellaneda
+2005,8,586,"MOCKINGBIRD HOLLYWOOD",1,Action,1,0.99,4.0000,27.99,3,India,Miraj
+2005,8,586,"MOCKINGBIRD HOLLYWOOD",1,Action,1,0.99,3.0000,27.99,3,India,"Purnea (Purnia)"
+2005,8,586,"MOCKINGBIRD HOLLYWOOD",1,Action,1,0.99,3.0000,27.99,3,Peru,Callao
+2005,6,586,"MOCKINGBIRD HOLLYWOOD",1,Action,1,4.99,8.0000,27.99,3,India,Jaipur
+2005,7,586,"MOCKINGBIRD HOLLYWOOD",1,Action,1,0.99,1.0000,27.99,3,"United Arab Emirates","Abu Dhabi"
+2005,7,586,"MOCKINGBIRD HOLLYWOOD",1,Action,1,0.99,2.0000,27.99,3,India,Haldia
+2005,8,586,"MOCKINGBIRD HOLLYWOOD",1,Action,1,0.99,2.0000,27.99,3,Pakistan,"Mandi Bahauddin"
+2005,8,586,"MOCKINGBIRD HOLLYWOOD",1,Action,1,4.99,8.0000,27.99,3,Cambodia,"Phnom Penh"
+2006,2,586,"MOCKINGBIRD HOLLYWOOD",1,Action,1,0.99,NULL,27.99,3,"United States",Garland
+2005,5,586,"MOCKINGBIRD HOLLYWOOD",1,Action,1,3.99,7.0000,27.99,3,Mexico,"Coacalco de Berriozábal"
+2005,6,586,"MOCKINGBIRD HOLLYWOOD",1,Action,1,1.99,5.0000,27.99,3,India,"Palghat (Palakkad)"
+2005,7,586,"MOCKINGBIRD HOLLYWOOD",1,Action,1,0.99,1.0000,27.99,3,"Russian Federation",Korolev
+2005,8,586,"MOCKINGBIRD HOLLYWOOD",1,Action,1,0.99,3.0000,27.99,3,India,Pathankot
+2005,8,586,"MOCKINGBIRD HOLLYWOOD",1,Action,1,0.99,4.0000,27.99,3,Netherlands,Emmen
+2005,7,586,"MOCKINGBIRD HOLLYWOOD",1,Action,1,5.99,9.0000,27.99,3,Turkey,Batman
+2005,8,586,"MOCKINGBIRD HOLLYWOOD",1,Action,1,0.99,2.0000,27.99,3,Japan,Matsue
+2005,8,586,"MOCKINGBIRD HOLLYWOOD",1,Action,1,5.99,9.0000,27.99,3,China,Huai´an
+2005,8,586,"MOCKINGBIRD HOLLYWOOD",1,Action,1,0.99,3.0000,27.99,3,Iran,"Shahr-e Kord"
+2005,8,586,"MOCKINGBIRD HOLLYWOOD",1,Action,1,2.99,6.0000,27.99,3,Israel,"Bat Yam"
+2005,7,586,"MOCKINGBIRD HOLLYWOOD",1,Action,1,5.99,9.0000,27.99,3,Kazakstan,Zhezqazghan
+2005,8,586,"MOCKINGBIRD HOLLYWOOD",1,Action,1,0.99,4.0000,27.99,3,Nigeria,Zaria
+2005,6,594,"MONTEZUMA COMMAND",1,Action,1,0.99,2.0000,22.99,2,Germany,Mannheim
+2005,7,594,"MONTEZUMA COMMAND",1,Action,1,0.99,1.0000,22.99,2,China,Laiwu
+2005,7,594,"MONTEZUMA COMMAND",1,Action,1,0.99,0.0000,22.99,2,Poland,Bydgoszcz
+2005,8,594,"MONTEZUMA COMMAND",1,Action,1,0.99,5.0000,22.99,2,Spain,Gijón
+2005,8,594,"MONTEZUMA COMMAND",1,Action,1,0.99,6.0000,22.99,2,Indonesia,Pontianak
+2005,8,594,"MONTEZUMA COMMAND",1,Action,1,0.99,6.0000,22.99,2,"Russian Federation",Tšeboksary
+2005,7,594,"MONTEZUMA COMMAND",1,Action,1,2.99,8.0000,22.99,2,Japan,Akishima
+2005,7,594,"MONTEZUMA COMMAND",1,Action,1,0.99,1.0000,22.99,2,"Russian Federation",Moscow
+2005,8,594,"MONTEZUMA COMMAND",1,Action,1,1.99,7.0000,22.99,2,India,Jaipur
+2005,7,659,"PARK CITIZEN",1,Action,1,7.99,6.0000,14.99,6,Belarus,Molodetšno
+2005,7,659,"PARK CITIZEN",1,Action,1,8.99,7.0000,14.99,6,Afghanistan,Kabul
+2005,8,659,"PARK CITIZEN",1,Action,1,4.99,1.0000,14.99,6,"United States",Manchester
+2005,5,659,"PARK CITIZEN",1,Action,1,4.99,0.0000,14.99,6,Mexico,"Valle de Santiago"
+2005,6,659,"PARK CITIZEN",1,Action,1,6.99,5.0000,14.99,6,"United States",Aurora
+2005,7,659,"PARK CITIZEN",1,Action,1,8.99,7.0000,14.99,6,China,Baicheng
+2005,7,659,"PARK CITIZEN",1,Action,1,7.99,6.0000,14.99,6,Finland,Oulu
+2005,8,659,"PARK CITIZEN",1,Action,1,9.99,8.0000,14.99,6,Kenya,Nyeri
+2005,7,664,"PATRIOT ROMAN",1,Action,1,2.99,5.0000,12.99,4,"Russian Federation",Syktyvkar
+2005,8,664,"PATRIOT ROMAN",1,Action,1,5.99,9.0000,12.99,4,"Russian Federation",Pjatigorsk
+2005,5,664,"PATRIOT ROMAN",1,Action,1,2.99,4.0000,12.99,4,Brazil,Araçatuba
+2005,6,664,"PATRIOT ROMAN",1,Action,1,3.99,7.0000,12.99,4,China,Liaocheng
+2005,7,664,"PATRIOT ROMAN",1,Action,1,2.99,3.0000,12.99,4,Yugoslavia,Kragujevac
+2005,7,664,"PATRIOT ROMAN",1,Action,1,2.99,6.0000,12.99,4,Turkey,Tokat
+2005,8,664,"PATRIOT ROMAN",1,Action,1,3.99,7.0000,12.99,4,Belarus,Molodetšno
+2005,6,664,"PATRIOT ROMAN",1,Action,1,2.99,3.0000,12.99,4,Japan,Matsue
+2005,7,664,"PATRIOT ROMAN",1,Action,1,2.99,5.0000,12.99,4,Japan,Isesaki
+2005,7,664,"PATRIOT ROMAN",1,Action,1,2.99,4.0000,12.99,4,Brazil,Poá
+2005,8,664,"PATRIOT ROMAN",1,Action,1,2.99,6.0000,12.99,4,Canada,"Richmond Hill"
+2005,7,664,"PATRIOT ROMAN",1,Action,1,3.99,7.0000,12.99,4,Vietnam,"Nha Trang"
+2005,7,664,"PATRIOT ROMAN",1,Action,1,2.99,6.0000,12.99,4,Philippines,Cavite
+2005,8,664,"PATRIOT ROMAN",1,Action,1,2.99,2.0000,12.99,4,Japan,Kamakura
+2005,8,664,"PATRIOT ROMAN",1,Action,1,2.99,6.0000,12.99,4,Japan,Ueda
+2005,8,664,"PATRIOT ROMAN",1,Action,1,4.99,8.0000,12.99,4,Algeria,Batna
+2005,6,697,"PRIMARY GLASS",1,Action,1,0.99,2.0000,16.99,7,Taiwan,Hsichuh
+2005,7,697,"PRIMARY GLASS",1,Action,1,0.99,2.0000,16.99,7,India,Uttarpara-Kotrung
+2005,7,697,"PRIMARY GLASS",1,Action,1,0.99,1.0000,16.99,7,"United States","El Monte"
+2005,8,697,"PRIMARY GLASS",1,Action,1,0.99,4.0000,16.99,7,Brazil,Poá
+2005,7,697,"PRIMARY GLASS",1,Action,1,0.99,4.0000,16.99,7,China,Laiwu
+2005,7,697,"PRIMARY GLASS",1,Action,1,0.99,1.0000,16.99,7,Ukraine,Kamjanets-Podilskyi
+2005,8,697,"PRIMARY GLASS",1,Action,1,0.99,2.0000,16.99,7,"United States",Fontana
+2005,7,697,"PRIMARY GLASS",1,Action,1,2.99,9.0000,16.99,7,Indonesia,Tegal
+2005,7,697,"PRIMARY GLASS",1,Action,1,0.99,6.0000,16.99,7,Belarus,Mogiljov
+2005,8,697,"PRIMARY GLASS",1,Action,1,2.99,9.0000,16.99,7,"Russian Federation",Jaroslavl
+2005,7,697,"PRIMARY GLASS",1,Action,1,0.99,1.0000,16.99,7,India,Ahmadnagar
+2005,8,697,"PRIMARY GLASS",1,Action,1,0.99,1.0000,16.99,7,India,Nagaon
+2005,6,697,"PRIMARY GLASS",1,Action,1,0.99,2.0000,16.99,7,China,Datong
+2005,7,697,"PRIMARY GLASS",1,Action,1,0.99,3.0000,16.99,7,"Russian Federation",Kurgan
+2005,7,697,"PRIMARY GLASS",1,Action,1,0.99,7.0000,16.99,7,Colombia,Buenaventura
+2005,8,697,"PRIMARY GLASS",1,Action,1,2.99,9.0000,16.99,7,China,Zalantun
+2005,6,697,"PRIMARY GLASS",1,Action,1,0.99,1.0000,16.99,7,Yemen,Hodeida
+2005,7,697,"PRIMARY GLASS",1,Action,1,0.99,3.0000,16.99,7,Mexico,Huixquilucan
+2005,7,697,"PRIMARY GLASS",1,Action,1,1.99,8.0000,16.99,7,Armenia,Yerevan
+2005,8,697,"PRIMARY GLASS",1,Action,1,1.99,8.0000,16.99,7,"Russian Federation",Korolev
+2005,7,697,"PRIMARY GLASS",1,Action,1,0.99,7.0000,16.99,7,Taiwan,Hsichuh
+2005,7,697,"PRIMARY GLASS",1,Action,1,0.99,5.0000,16.99,7,Brazil,"Águas Lindas de Goiás"
+2005,8,697,"PRIMARY GLASS",1,Action,1,0.99,2.0000,16.99,7,Ecuador,Ríobamba
+2005,6,697,"PRIMARY GLASS",1,Action,1,2.99,9.0000,16.99,7,"United States",Rockford
+2005,7,697,"PRIMARY GLASS",1,Action,1,0.99,1.0000,16.99,7,India,Chandrapur
+2005,7,697,"PRIMARY GLASS",1,Action,1,0.99,7.0000,16.99,7,India,"Yamuna Nagar"
+2005,8,697,"PRIMARY GLASS",1,Action,1,0.99,7.0000,16.99,7,Mexico,Atlixco
+2005,7,707,"QUEST MUSSOLINI",1,Action,1,3.99,6.0000,29.99,5,China,Meixian
+2005,7,707,"QUEST MUSSOLINI",1,Action,1,2.99,1.0000,29.99,5,Ecuador,Ríobamba
+2005,8,707,"QUEST MUSSOLINI",1,Action,1,3.99,6.0000,29.99,5,Germany,Duisburg
+2005,8,707,"QUEST MUSSOLINI",1,Action,1,4.99,7.0000,29.99,5,Venezuela,Caracas
+2005,8,707,"QUEST MUSSOLINI",1,Action,1,2.99,3.0000,29.99,5,"United States","Cape Coral"
+2005,7,707,"QUEST MUSSOLINI",1,Action,1,6.99,9.0000,29.99,5,Germany,Erlangen
+2005,8,707,"QUEST MUSSOLINI",1,Action,1,2.99,5.0000,29.99,5,Argentina,Córdoba
+2005,8,707,"QUEST MUSSOLINI",1,Action,1,5.99,8.0000,29.99,5,Mozambique,Naçala-Porto
+2005,6,707,"QUEST MUSSOLINI",1,Action,1,6.99,9.0000,29.99,5,Venezuela,Cumaná
+2005,7,707,"QUEST MUSSOLINI",1,Action,1,2.99,3.0000,29.99,5,Ukraine,Mukatševe
+2005,8,707,"QUEST MUSSOLINI",1,Action,1,2.99,2.0000,29.99,5,India,Bhilwara
+2005,8,707,"QUEST MUSSOLINI",1,Action,1,2.99,2.0000,29.99,5,China,Xi´angtan
+2005,6,707,"QUEST MUSSOLINI",1,Action,1,4.99,7.0000,29.99,5,Pakistan,Mardan
+2005,7,707,"QUEST MUSSOLINI",1,Action,1,3.99,6.0000,29.99,5,Japan,Izumisano
+2005,7,707,"QUEST MUSSOLINI",1,Action,1,2.99,2.0000,29.99,5,Taiwan,Fengshan
+2005,8,707,"QUEST MUSSOLINI",1,Action,1,2.99,2.0000,29.99,5,Algeria,Skikda
+2005,6,707,"QUEST MUSSOLINI",1,Action,1,2.99,1.0000,29.99,5,Mexico,Acuña
+2005,7,707,"QUEST MUSSOLINI",1,Action,1,2.99,2.0000,29.99,5,"Puerto Rico",Ponce
+2005,8,707,"QUEST MUSSOLINI",1,Action,1,2.99,4.0000,29.99,5,Taiwan,Hsichuh
+2005,8,707,"QUEST MUSSOLINI",1,Action,1,2.99,3.0000,29.99,5,India,Sambhal
+2005,7,717,"REAR TRADING",1,Action,1,0.99,6.0000,23.99,8,Netherlands,Apeldoorn
+2005,7,717,"REAR TRADING",1,Action,1,0.99,1.0000,23.99,8,Italy,Brescia
+2005,8,717,"REAR TRADING",1,Action,1,2.99,8.0000,23.99,8,Philippines,Taguig
+2005,5,717,"REAR TRADING",1,Action,1,1.99,7.0000,23.99,8,"Russian Federation",Zeleznogorsk
+2005,6,717,"REAR TRADING",1,Action,1,0.99,2.0000,23.99,8,"United Arab Emirates","Abu Dhabi"
+2005,7,717,"REAR TRADING",1,Action,1,3.99,9.0000,23.99,8,"French Guiana",Cayenne
+2005,7,717,"REAR TRADING",1,Action,1,1.99,7.0000,23.99,8,"United Kingdom",Southampton
+2005,8,717,"REAR TRADING",1,Action,1,0.99,1.0000,23.99,8,India,Hubli-Dharwad
+2005,5,717,"REAR TRADING",1,Action,1,2.99,8.0000,23.99,8,India,"Siliguri (Shiliguri)"
+2005,6,717,"REAR TRADING",1,Action,1,0.99,4.0000,23.99,8,Mexico,Matamoros
+2005,7,717,"REAR TRADING",1,Action,1,2.99,8.0000,23.99,8,Liechtenstein,Vaduz
+2005,8,717,"REAR TRADING",1,Action,1,0.99,5.0000,23.99,8,Canada,Vancouver
+2005,8,717,"REAR TRADING",1,Action,1,0.99,1.0000,23.99,8,China,Yuncheng
+2005,6,717,"REAR TRADING",1,Action,1,3.99,9.0000,23.99,8,China,Liaocheng
+2005,7,717,"REAR TRADING",1,Action,1,0.99,6.0000,23.99,8,Sudan,al-Qadarif
+2005,7,717,"REAR TRADING",1,Action,1,2.99,8.0000,23.99,8,Greece,Athenai
+2005,8,717,"REAR TRADING",1,Action,1,0.99,5.0000,23.99,8,Mexico,"La Paz"
+2005,7,732,"RINGS HEARTBREAKERS",1,Action,1,3.99,8.0000,17.99,11,Yemen,Aden
+2005,7,732,"RINGS HEARTBREAKERS",1,Action,1,1.99,6.0000,17.99,11,India,Miraj
+2005,8,732,"RINGS HEARTBREAKERS",1,Action,1,0.99,2.0000,17.99,11,Brazil,"Rio Claro"
+2005,7,732,"RINGS HEARTBREAKERS",1,Action,1,0.99,5.0000,17.99,11,"South Africa",Soshanguve
+2005,8,732,"RINGS HEARTBREAKERS",1,Action,1,3.99,8.0000,17.99,11,Yemen,Sanaa
+2005,5,732,"RINGS HEARTBREAKERS",1,Action,1,1.99,6.0000,17.99,11,Greece,Athenai
+2005,6,732,"RINGS HEARTBREAKERS",1,Action,1,0.99,3.0000,17.99,11,India,Amroha
+2005,7,732,"RINGS HEARTBREAKERS",1,Action,1,4.99,9.0000,17.99,11,Turkey,Adana
+2005,7,732,"RINGS HEARTBREAKERS",1,Action,1,1.99,6.0000,17.99,11,Belarus,Mogiljov
+2005,8,732,"RINGS HEARTBREAKERS",1,Action,1,1.99,6.0000,17.99,11,Poland,Kalisz
+2005,5,732,"RINGS HEARTBREAKERS",1,Action,1,0.99,2.0000,17.99,11,Latvia,Liepaja
+2005,6,732,"RINGS HEARTBREAKERS",1,Action,1,1.99,6.0000,17.99,11,Cambodia,Battambang
+2005,7,732,"RINGS HEARTBREAKERS",1,Action,1,0.99,5.0000,17.99,11,China,Suihua
+2005,7,732,"RINGS HEARTBREAKERS",1,Action,1,2.99,7.0000,17.99,11,Yemen,Taizz
+2005,8,732,"RINGS HEARTBREAKERS",1,Action,1,3.99,8.0000,17.99,11,Morocco,Nador
+2005,7,748,"RUGRATS SHAKESPEARE",1,Action,1,0.99,3.0000,16.99,6,Peru,Huánuco
+2005,7,748,"RUGRATS SHAKESPEARE",1,Action,1,0.99,1.0000,16.99,6,"Russian Federation",Ivanovo
+2005,8,748,"RUGRATS SHAKESPEARE",1,Action,1,0.99,1.0000,16.99,6,Turkey,Usak
+2005,6,748,"RUGRATS SHAKESPEARE",1,Action,1,0.99,1.0000,16.99,6,Japan,Hino
+2005,7,748,"RUGRATS SHAKESPEARE",1,Action,1,4.99,8.0000,16.99,6,"Russian Federation",Atšinsk
+2005,7,748,"RUGRATS SHAKESPEARE",1,Action,1,1.99,5.0000,16.99,6,India,Etawah
+2005,8,748,"RUGRATS SHAKESPEARE",1,Action,1,4.99,8.0000,16.99,6,Vietnam,"Cam Ranh"
+2005,6,748,"RUGRATS SHAKESPEARE",1,Action,1,4.99,8.0000,16.99,6,Sudan,Omdurman
+2005,7,748,"RUGRATS SHAKESPEARE",1,Action,1,1.99,5.0000,16.99,6,Nigeria,Ilorin
+2005,7,748,"RUGRATS SHAKESPEARE",1,Action,1,0.99,4.0000,16.99,6,Japan,Isesaki
+2005,8,748,"RUGRATS SHAKESPEARE",1,Action,1,4.99,8.0000,16.99,6,Taiwan,Tanshui
+2005,7,748,"RUGRATS SHAKESPEARE",1,Action,1,0.99,2.0000,16.99,6,"United States",Dayton
+2005,8,748,"RUGRATS SHAKESPEARE",1,Action,1,0.99,3.0000,16.99,6,Mexico,Cuauhtémoc
+2005,7,748,"RUGRATS SHAKESPEARE",1,Action,1,0.99,2.0000,16.99,6,Philippines,Davao
+2005,7,748,"RUGRATS SHAKESPEARE",1,Action,1,2.99,6.0000,16.99,6,Ukraine,Šostka
+2005,8,748,"RUGRATS SHAKESPEARE",1,Action,1,2.99,6.0000,16.99,6,Mexico,Atlixco
+2005,5,748,"RUGRATS SHAKESPEARE",1,Action,1,0.99,3.0000,16.99,6,Japan,Urawa
+2005,6,748,"RUGRATS SHAKESPEARE",1,Action,1,0.99,3.0000,16.99,6,China,Binzhou
+2005,7,748,"RUGRATS SHAKESPEARE",1,Action,1,2.99,6.0000,16.99,6,Israel,Ashdod
+2005,7,748,"RUGRATS SHAKESPEARE",1,Action,1,2.99,6.0000,16.99,6,France,Toulouse
+2005,8,748,"RUGRATS SHAKESPEARE",1,Action,1,1.99,5.0000,16.99,6,"Dominican Republic","La Romana"
+2005,6,748,"RUGRATS SHAKESPEARE",1,Action,1,2.99,6.0000,16.99,6,Poland,Tychy
+2005,7,748,"RUGRATS SHAKESPEARE",1,Action,1,2.99,6.0000,16.99,6,Nepal,Birgunj
+2005,7,748,"RUGRATS SHAKESPEARE",1,Action,1,2.99,6.0000,16.99,6,Brazil,"Angra dos Reis"
+2005,8,748,"RUGRATS SHAKESPEARE",1,Action,1,0.99,1.0000,16.99,6,France,Toulon
+2005,5,748,"RUGRATS SHAKESPEARE",1,Action,1,1.99,5.0000,16.99,6,"Saudi Arabia",Jedda
+2005,6,748,"RUGRATS SHAKESPEARE",1,Action,1,4.99,8.0000,16.99,6,Indonesia,Ciomas
+2005,7,748,"RUGRATS SHAKESPEARE",1,Action,1,3.99,7.0000,16.99,6,China,Laiwu
+2005,8,748,"RUGRATS SHAKESPEARE",1,Action,1,0.99,0.0000,16.99,6,"United States","San Bernardino"
+2005,8,748,"RUGRATS SHAKESPEARE",1,Action,1,0.99,4.0000,16.99,6,Armenia,Yerevan
+2005,5,793,"SHRUNK DIVINE",1,Action,1,5.99,9.0000,14.99,4,"South Africa",Newcastle
+2005,6,793,"SHRUNK DIVINE",1,Action,1,2.99,6.0000,14.99,4,India,Pune
+2005,7,793,"SHRUNK DIVINE",1,Action,1,2.99,5.0000,14.99,4,Brunei,"Bandar Seri Begawan"
+2005,8,793,"SHRUNK DIVINE",1,Action,1,5.99,9.0000,14.99,4,India,Amroha
+2005,8,793,"SHRUNK DIVINE",1,Action,1,6.99,10.0000,14.99,4,"South Africa",Klerksdorp
+2005,7,793,"SHRUNK DIVINE",1,Action,1,2.99,1.0000,14.99,4,Indonesia,Pontianak
+2005,7,793,"SHRUNK DIVINE",1,Action,1,2.99,6.0000,14.99,4,Turkmenistan,Ashgabat
+2005,8,793,"SHRUNK DIVINE",1,Action,1,2.99,5.0000,14.99,4,"French Polynesia",Faaa
+2005,7,793,"SHRUNK DIVINE",1,Action,1,2.99,2.0000,14.99,4,Indonesia,Lhokseumawe
+2005,7,793,"SHRUNK DIVINE",1,Action,1,2.99,6.0000,14.99,4,"South Africa",Boksburg
+2005,8,793,"SHRUNK DIVINE",1,Action,1,2.99,6.0000,14.99,4,Mexico,Cuautla
+2005,7,793,"SHRUNK DIVINE",1,Action,1,3.99,7.0000,14.99,4,Bangladesh,Tangail
+2005,7,793,"SHRUNK DIVINE",1,Action,1,2.99,3.0000,14.99,4,"Russian Federation",Kamyšin
+2005,8,793,"SHRUNK DIVINE",1,Action,1,2.99,4.0000,14.99,4,Brazil,"Juazeiro do Norte"
+2005,7,794,"SIDE ARK",1,Action,1,3.99,8.0000,28.99,6,Kenya,Nyeri
+2005,8,794,"SIDE ARK",1,Action,1,1.99,6.0000,28.99,6,Argentina,"Santa Fé"
+2005,6,794,"SIDE ARK",1,Action,1,2.99,7.0000,28.99,6,"Dominican Republic","La Romana"
+2005,7,794,"SIDE ARK",1,Action,1,0.99,4.0000,28.99,6,Brazil,Anápolis
+2005,7,794,"SIDE ARK",1,Action,1,3.99,8.0000,28.99,6,Argentina,Avellaneda
+2005,8,794,"SIDE ARK",1,Action,1,2.99,7.0000,28.99,6,Poland,Bydgoszcz
+2005,7,794,"SIDE ARK",1,Action,1,2.99,7.0000,28.99,6,Mexico,"El Fuerte"
+2005,8,794,"SIDE ARK",1,Action,1,0.99,5.0000,28.99,6,Argentina,"Bahía Blanca"
+2005,8,794,"SIDE ARK",1,Action,1,0.99,4.0000,28.99,6,"Saudi Arabia",Tabuk
+2005,7,794,"SIDE ARK",1,Action,1,2.99,7.0000,28.99,6,Estonia,Tartu
+2005,7,794,"SIDE ARK",1,Action,1,0.99,1.0000,28.99,6,Japan,Urawa
+2005,8,794,"SIDE ARK",1,Action,1,3.99,8.0000,28.99,6,India,Karnal
+2005,5,823,"SOUTH WAIT",1,Action,1,4.99,6.0000,21.99,2,"Russian Federation",Niznekamsk
+2005,6,823,"SOUTH WAIT",1,Action,1,2.99,2.0000,21.99,2,Turkey,Osmaniye
+2005,7,823,"SOUTH WAIT",1,Action,1,5.99,7.0000,21.99,2,Mexico,"San Juan Bautista Tuxtepec"
+2005,7,823,"SOUTH WAIT",1,Action,1,2.99,1.0000,21.99,2,"Russian Federation",Balašiha
+2005,8,823,"SOUTH WAIT",1,Action,1,6.99,8.0000,21.99,2,Réunion,Saint-Denis
+2005,7,823,"SOUTH WAIT",1,Action,1,2.99,3.0000,21.99,2,"South Africa",Johannesburg
+2005,8,823,"SOUTH WAIT",1,Action,1,3.99,5.0000,21.99,2,Colombia,"Dos Quebradas"
+2005,8,823,"SOUTH WAIT",1,Action,1,2.99,1.0000,21.99,2,Mexico,Hidalgo
+2005,7,823,"SOUTH WAIT",1,Action,1,2.99,3.0000,21.99,2,Oman,Salala
+2005,7,823,"SOUTH WAIT",1,Action,1,5.99,7.0000,21.99,2,India,Hubli-Dharwad
+2005,8,823,"SOUTH WAIT",1,Action,1,3.99,5.0000,21.99,2,Italy,Brindisi
+2005,7,823,"SOUTH WAIT",1,Action,1,5.99,7.0000,21.99,2,"South Africa",Soshanguve
+2005,8,823,"SOUTH WAIT",1,Action,1,4.99,6.0000,21.99,2,Japan,Sagamihara
+2005,8,823,"SOUTH WAIT",1,Action,1,2.99,2.0000,21.99,2,India,Bhilwara
+2005,7,823,"SOUTH WAIT",1,Action,1,7.99,9.0000,21.99,2,Venezuela,"Valle de la Pascua"
+2006,2,823,"SOUTH WAIT",1,Action,1,2.99,NULL,21.99,2,India,Haldia
+2005,6,823,"SOUTH WAIT",1,Action,1,6.99,8.0000,21.99,2,Sweden,Malmö
+2005,7,823,"SOUTH WAIT",1,Action,1,3.99,5.0000,21.99,2,Philippines,Baybay
+2005,7,823,"SOUTH WAIT",1,Action,1,7.99,9.0000,21.99,2,Indonesia,Gorontalo
+2005,8,823,"SOUTH WAIT",1,Action,1,2.99,2.0000,21.99,2,Japan,Isesaki
+2005,7,823,"SOUTH WAIT",1,Action,1,6.99,8.0000,21.99,2,Taiwan,Tanshui
+2005,8,823,"SOUTH WAIT",1,Action,1,6.99,8.0000,21.99,2,Turkey,Adana
+2005,5,825,"SPEAKEASY DATE",1,Action,1,3.99,7.0000,22.99,3,Pakistan,Dadu
+2005,6,825,"SPEAKEASY DATE",1,Action,1,2.99,1.0000,22.99,3,India,Jodhpur
+2005,7,825,"SPEAKEASY DATE",1,Action,1,2.99,1.0000,22.99,3,Indonesia,Probolinggo
+2005,7,825,"SPEAKEASY DATE",1,Action,1,4.99,8.0000,22.99,3,Vietnam,Haiphong
+2005,8,825,"SPEAKEASY DATE",1,Action,1,2.99,5.0000,22.99,3,"United States",Fontana
+2005,6,825,"SPEAKEASY DATE",1,Action,1,2.99,5.0000,22.99,3,Taiwan,Touliu
+2005,7,825,"SPEAKEASY DATE",1,Action,1,5.99,9.0000,22.99,3,India,"Allappuzha (Alleppey)"
+2005,7,825,"SPEAKEASY DATE",1,Action,1,2.99,6.0000,22.99,3,Brazil,Blumenau
+2005,8,825,"SPEAKEASY DATE",1,Action,1,3.99,7.0000,22.99,3,India,Gulbarga
+2005,7,825,"SPEAKEASY DATE",1,Action,1,2.99,3.0000,22.99,3,Brazil,"Vila Velha"
+2005,7,825,"SPEAKEASY DATE",1,Action,1,2.99,2.0000,22.99,3,China,Weifang
+2005,8,825,"SPEAKEASY DATE",1,Action,1,5.99,9.0000,22.99,3,Gambia,Banjul
+2005,6,838,"STAGECOACH ARMAGEDDON",1,Action,1,4.99,4.0000,25.99,6,China,Xi´angtan
+2005,7,838,"STAGECOACH ARMAGEDDON",1,Action,1,4.99,5.0000,25.99,6,Taiwan,Fengshan
+2005,7,838,"STAGECOACH ARMAGEDDON",1,Action,1,5.99,6.0000,25.99,6,Ukraine,Kamjanets-Podilskyi
+2005,8,838,"STAGECOACH ARMAGEDDON",1,Action,1,5.99,6.0000,25.99,6,Turkey,Batman
+2005,6,838,"STAGECOACH ARMAGEDDON",1,Action,1,4.99,3.0000,25.99,6,"South Africa",Paarl
+2005,7,838,"STAGECOACH ARMAGEDDON",1,Action,1,6.99,7.0000,25.99,6,Malaysia,"Sungai Petani"
+2005,7,838,"STAGECOACH ARMAGEDDON",1,Action,1,4.99,4.0000,25.99,6,Iran,Esfahan
+2005,8,838,"STAGECOACH ARMAGEDDON",1,Action,1,4.99,3.0000,25.99,6,Taiwan,Hsichuh
+2005,5,838,"STAGECOACH ARMAGEDDON",1,Action,1,5.99,6.0000,25.99,6,India,Patiala
+2005,6,838,"STAGECOACH ARMAGEDDON",1,Action,1,5.99,6.0000,25.99,6,China,Huai´an
+2005,7,838,"STAGECOACH ARMAGEDDON",1,Action,1,4.99,3.0000,25.99,6,Azerbaijan,Sumqayit
+2005,7,838,"STAGECOACH ARMAGEDDON",1,Action,1,6.99,7.0000,25.99,6,Philippines,Ozamis
+2005,8,838,"STAGECOACH ARMAGEDDON",1,Action,1,7.99,8.0000,25.99,6,"Russian Federation",Pjatigorsk
+2005,5,838,"STAGECOACH ARMAGEDDON",1,Action,1,4.99,3.0000,25.99,6,China,Tianjin
+2005,6,838,"STAGECOACH ARMAGEDDON",1,Action,1,5.99,6.0000,25.99,6,"Russian Federation",Elista
+2005,7,838,"STAGECOACH ARMAGEDDON",1,Action,1,8.99,9.0000,25.99,6,"Hong Kong","Kowloon and New Kowloon"
+2005,7,838,"STAGECOACH ARMAGEDDON",1,Action,1,4.99,2.0000,25.99,6,Italy,Brescia
+2005,8,838,"STAGECOACH ARMAGEDDON",1,Action,1,7.99,8.0000,25.99,6,India,Patiala
+2005,6,838,"STAGECOACH ARMAGEDDON",1,Action,1,5.99,6.0000,25.99,6,Venezuela,"Ocumare del Tuy"
+2005,7,838,"STAGECOACH ARMAGEDDON",1,Action,1,6.99,7.0000,25.99,6,Ukraine,Sumy
+2005,7,838,"STAGECOACH ARMAGEDDON",1,Action,1,4.99,2.0000,25.99,6,Austria,Linz
+2005,8,838,"STAGECOACH ARMAGEDDON",1,Action,1,4.99,2.0000,25.99,6,Mexico,Guadalajara
+2005,6,838,"STAGECOACH ARMAGEDDON",1,Action,1,4.99,2.0000,25.99,6,"Russian Federation",Kirovo-Tšepetsk
+2005,7,838,"STAGECOACH ARMAGEDDON",1,Action,1,4.99,4.0000,25.99,6,Japan,Urawa
+2005,7,838,"STAGECOACH ARMAGEDDON",1,Action,1,4.99,2.0000,25.99,6,"South Africa",Boksburg
+2005,8,838,"STAGECOACH ARMAGEDDON",1,Action,1,7.99,8.0000,25.99,6,Brazil,"Santa Bárbara d´Oeste"
+2005,7,850,"STORY SIDE",1,Action,1,0.99,4.0000,27.99,5,"Faroe Islands",Tórshavn
+2005,7,850,"STORY SIDE",1,Action,1,0.99,3.0000,27.99,5,Taiwan,Touliu
+2005,8,850,"STORY SIDE",1,Action,1,0.99,3.0000,27.99,5,Philippines,Taguig
+2005,5,850,"STORY SIDE",1,Action,1,2.99,9.0000,27.99,5,Mexico,Torreón
+2005,6,850,"STORY SIDE",1,Action,1,0.99,3.0000,27.99,5,"United States",Rockford
+2005,7,850,"STORY SIDE",1,Action,1,0.99,5.0000,27.99,5,China,Yinchuan
+2005,8,850,"STORY SIDE",1,Action,1,0.99,1.0000,27.99,5,Bolivia,Sucre
+2005,8,850,"STORY SIDE",1,Action,1,0.99,1.0000,27.99,5,Vietnam,"Nha Trang"
+2005,6,850,"STORY SIDE",1,Action,1,0.99,6.0000,27.99,5,China,Hohhot
+2005,7,850,"STORY SIDE",1,Action,1,2.99,9.0000,27.99,5,Iran,Esfahan
+2005,7,850,"STORY SIDE",1,Action,1,0.99,2.0000,27.99,5,Latvia,Daugavpils
+2005,8,850,"STORY SIDE",1,Action,1,0.99,5.0000,27.99,5,China,Leshan
+2005,6,850,"STORY SIDE",1,Action,1,0.99,1.0000,27.99,5,China,Xi´angfan
+2005,7,850,"STORY SIDE",1,Action,1,0.99,2.0000,27.99,5,Ecuador,Portoviejo
+2005,7,850,"STORY SIDE",1,Action,1,0.99,2.0000,27.99,5,India,Etawah
+2005,8,850,"STORY SIDE",1,Action,1,0.99,7.0000,27.99,5,"United Kingdom",Stockport
+2005,6,850,"STORY SIDE",1,Action,1,0.99,1.0000,27.99,5,Vietnam,"Nam Dinh"
+2005,7,850,"STORY SIDE",1,Action,1,0.99,3.0000,27.99,5,Romania,Botosani
+2005,7,850,"STORY SIDE",1,Action,1,0.99,4.0000,27.99,5,Yemen,Aden
+2005,8,850,"STORY SIDE",1,Action,1,0.99,2.0000,27.99,5,China,Zaoyang
+2005,5,850,"STORY SIDE",1,Action,1,0.99,5.0000,27.99,5,Argentina,"Bahía Blanca"
+2005,6,850,"STORY SIDE",1,Action,1,2.99,9.0000,27.99,5,Brazil,Belém
+2005,7,850,"STORY SIDE",1,Action,1,2.99,9.0000,27.99,5,Latvia,Liepaja
+2005,8,850,"STORY SIDE",1,Action,1,2.99,9.0000,27.99,5,China,Suihua
+2005,8,850,"STORY SIDE",1,Action,1,1.99,8.0000,27.99,5,China,Zalantun
+2005,7,850,"STORY SIDE",1,Action,1,1.99,8.0000,27.99,5,Spain,"A Coruña (La Coruña)"
+2005,8,850,"STORY SIDE",1,Action,1,0.99,1.0000,27.99,5,Mexico,Mexicali
+2005,8,850,"STORY SIDE",1,Action,1,0.99,2.0000,27.99,5,China,Junan
+2005,6,869,"SUSPECTS QUILLS",1,Action,1,4.99,6.0000,22.99,8,Philippines,Tanza
+2005,7,869,"SUSPECTS QUILLS",1,Action,1,5.99,7.0000,22.99,8,Taiwan,Chungho
+2005,7,869,"SUSPECTS QUILLS",1,Action,1,2.99,3.0000,22.99,8,India,Bhilwara
+2005,8,869,"SUSPECTS QUILLS",1,Action,1,2.99,4.0000,22.99,8,"United States",Bellevue
+2005,7,869,"SUSPECTS QUILLS",1,Action,1,4.99,6.0000,22.99,8,Brunei,"Bandar Seri Begawan"
+2005,8,869,"SUSPECTS QUILLS",1,Action,1,2.99,3.0000,22.99,8,Thailand,"Pak Kret"
+2005,8,869,"SUSPECTS QUILLS",1,Action,1,6.99,8.0000,22.99,8,"Russian Federation",Usolje-Sibirskoje
+2005,6,869,"SUSPECTS QUILLS",1,Action,1,4.99,6.0000,22.99,8,Poland,Plock
+2005,7,869,"SUSPECTS QUILLS",1,Action,2,6.98,4.5000,22.99,8,Netherlands,Amersfoort
+2005,7,869,"SUSPECTS QUILLS",1,Action,1,4.99,6.0000,22.99,8,Nigeria,Zaria
+2005,8,869,"SUSPECTS QUILLS",1,Action,1,4.99,6.0000,22.99,8,Turkey,Gaziantep
+2005,6,869,"SUSPECTS QUILLS",1,Action,1,5.99,7.0000,22.99,8,Indonesia,Madiun
+2005,7,869,"SUSPECTS QUILLS",1,Action,1,4.99,6.0000,22.99,8,Germany,Saarbrücken
+2006,2,869,"SUSPECTS QUILLS",1,Action,1,2.99,NULL,22.99,8,India,"Munger (Monghyr)"
+2005,5,869,"SUSPECTS QUILLS",1,Action,1,4.99,6.0000,22.99,8,India,Satna
+2005,6,869,"SUSPECTS QUILLS",1,Action,1,3.99,5.0000,22.99,8,Indonesia,Probolinggo
+2005,7,869,"SUSPECTS QUILLS",1,Action,1,2.99,3.0000,22.99,8,Tanzania,Mwanza
+2005,8,869,"SUSPECTS QUILLS",1,Action,1,2.99,4.0000,22.99,8,"United States",Salinas
+2005,8,869,"SUSPECTS QUILLS",1,Action,1,3.99,5.0000,22.99,8,"French Polynesia",Papeete
+2005,5,869,"SUSPECTS QUILLS",1,Action,1,5.99,7.0000,22.99,8,Japan,Ueda
+2005,6,869,"SUSPECTS QUILLS",1,Action,1,3.99,5.0000,22.99,8,Thailand,"Pak Kret"
+2005,7,869,"SUSPECTS QUILLS",1,Action,1,4.99,6.0000,22.99,8,Turkey,Balikesir
+2005,7,869,"SUSPECTS QUILLS",1,Action,1,5.99,7.0000,22.99,8,Bahrain,al-Manama
+2005,8,869,"SUSPECTS QUILLS",1,Action,1,2.99,1.0000,22.99,8,Brazil,"Vitória de Santo Antão"
+2005,5,869,"SUSPECTS QUILLS",1,Action,1,3.99,5.0000,22.99,8,"French Polynesia",Papeete
+2005,6,869,"SUSPECTS QUILLS",1,Action,1,2.99,1.0000,22.99,8,India,Etawah
+2005,7,869,"SUSPECTS QUILLS",1,Action,1,5.99,7.0000,22.99,8,Poland,Jastrzebie-Zdrój
+2005,7,869,"SUSPECTS QUILLS",1,Action,1,6.99,8.0000,22.99,8,Egypt,"Mit Ghamr"
+2005,8,869,"SUSPECTS QUILLS",1,Action,1,2.99,2.0000,22.99,8,China,Tieli
+2005,5,911,"TRIP NEWTON",1,Action,1,4.99,5.0000,14.99,4,Italy,Syrakusa
+2005,6,911,"TRIP NEWTON",1,Action,1,6.99,9.0000,14.99,4,India,Uluberia
+2005,7,911,"TRIP NEWTON",1,Action,1,4.99,1.0000,14.99,4,"Russian Federation","Nabereznyje Tšelny"
+2005,7,911,"TRIP NEWTON",1,Action,1,4.99,2.0000,14.99,4,"American Samoa",Tafuna
+2005,8,911,"TRIP NEWTON",1,Action,1,4.99,2.0000,14.99,4,Mozambique,Naçala-Porto
+2005,7,911,"TRIP NEWTON",1,Action,1,5.99,8.0000,14.99,4,Brazil,Bagé
+2005,7,911,"TRIP NEWTON",1,Action,1,4.99,3.0000,14.99,4,Nigeria,Owo
+2005,8,911,"TRIP NEWTON",1,Action,1,4.99,6.0000,14.99,4,"United States",Brockton
+2005,6,911,"TRIP NEWTON",1,Action,1,4.99,3.0000,14.99,4,India,Sambhal
+2005,7,911,"TRIP NEWTON",1,Action,2,10.98,5.5000,14.99,4,Iraq,Mosul
+2005,7,911,"TRIP NEWTON",1,Action,1,4.99,1.0000,14.99,4,China,Laiwu
+2005,8,911,"TRIP NEWTON",1,Action,1,4.99,2.0000,14.99,4,Nigeria,Owo
+2005,7,911,"TRIP NEWTON",1,Action,1,4.99,4.0000,14.99,4,Cameroon,Yaoundé
+2005,7,911,"TRIP NEWTON",1,Action,1,5.99,8.0000,14.99,4,"Russian Federation",Kurgan
+2005,8,911,"TRIP NEWTON",1,Action,1,4.99,6.0000,14.99,4,Turkey,Usak
+2005,5,911,"TRIP NEWTON",1,Action,1,4.99,1.0000,14.99,4,"South Africa",Klerksdorp
+2005,6,911,"TRIP NEWTON",1,Action,1,4.99,7.0000,14.99,4,Indonesia,Probolinggo
+2005,7,911,"TRIP NEWTON",1,Action,1,4.99,3.0000,14.99,4,Venezuela,Caracas
+2005,8,911,"TRIP NEWTON",1,Action,1,4.99,3.0000,14.99,4,Argentina,"Bahía Blanca"
+2005,8,911,"TRIP NEWTON",1,Action,1,4.99,5.0000,14.99,4,"United Kingdom",London
+2005,7,911,"TRIP NEWTON",1,Action,1,5.99,8.0000,14.99,4,India,"Rae Bareli"
+2005,7,911,"TRIP NEWTON",1,Action,1,4.99,4.0000,14.99,4,Mozambique,Beira
+2005,8,911,"TRIP NEWTON",1,Action,1,4.99,1.0000,14.99,4,China,Xi´angfan
+2005,8,911,"TRIP NEWTON",1,Action,1,4.99,4.0000,14.99,4,Angola,Namibe
+2005,7,911,"TRIP NEWTON",1,Action,1,4.99,2.0000,14.99,4,China,Yuzhou
+2005,7,911,"TRIP NEWTON",1,Action,1,4.99,4.0000,14.99,4,India,Jaipur
+2005,8,911,"TRIP NEWTON",1,Action,1,4.99,6.0000,14.99,4,Kenya,Nyeri
+2005,7,915,"TRUMAN CRAZY",1,Action,1,4.99,4.0000,9.99,6,Germany,Duisburg
+2005,8,915,"TRUMAN CRAZY",1,Action,1,4.99,7.0000,9.99,6,"Saudi Arabia",al-Qatif
+2005,7,915,"TRUMAN CRAZY",1,Action,1,4.99,6.0000,9.99,6,Italy,Brescia
+2005,8,915,"TRUMAN CRAZY",1,Action,1,4.99,5.0000,9.99,6,China,Shenzhen
